@@ -2,9 +2,11 @@ classification <- read_excel("~/GitHub/arctos-r/input/temp_cont_ichnus.xlsx") # 
 # classification <- classification[which(classification$SOURCE == "Arctos"),] # get only Arctos classifications
 
 classification$test <- paste(classification$SCIENTIFIC_NAME,classification$CLASSIFICATION_ID, sep = " ") # create unique identifier for name and classification ID combination
+classification$noclass_term_type_1 <- "source_authority" # set up term type for source_authority
+classification$noclass_term_1 <- paste(classification$SOURCE,classification$LASTDATE,sep = " ") # create a source plus date field for source_authority
 df <- classification # change dataframe name for ease of use
 df <- df[which(!duplicated(df$test)),] # get list of unique test IDs
-df <- df[c("test")] # create dataframe of test IDs
+df <- df[c("test","noclass_term_type_1","noclass_term_1")] # create dataframe of test IDs
 justclass <- classification[which(!is.na(classification$POSITION_IN_CLASSIFICATION)),] # get all classification terms
 noclass <- classification[which(is.na(classification$POSITION_IN_CLASSIFICATION)),]
 if (nrow(justclass) + nrow(noclass) == nrow(classification)){
@@ -12,7 +14,8 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
   check <- nrow(noclass)
   df$username <- "jegelewicz" # add username
   df$hierarchy_name <- "Arctos Ichnology" # add hierarchy name
-  sciname <- classification[which(classification$TERM_TYPE == "scientific_name"),] # get list of scientific names
+  # sciname <- classification[which(classification$TERM_TYPE == "scientific_name"),] # get list of scientific names
+  df$scientific_name <- NA # create column for scientific_name
   for (i in 1:nrow(df)){
     df$scientific_name[i] <- vlookup(classification$SCIENTIFIC_NAME,df$test[i],classification$test)
   } # add scientific name
@@ -20,7 +23,7 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
   # non-classification terms
   used <- data.frame(test=character(),
                      stringsAsFactors=FALSE) # initialize temporary dataframe
-  k <- 0 # initialize variable k
+  k <- 1 # initialize variable k
   
   while (nrow(noclass) > 0){
     classes <- unique(noclass$TERM_TYPE)# get maximum number of classification terms in any given classification
@@ -41,7 +44,7 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
   }  
   
   # sanity check
-  test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$username))) - length(which(!is.na(df$hierarchy_name))))/2
+  test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$username))) - length(which(!is.na(df$hierarchy_name))) - length(which(!is.na(df$noclass_term_type_1))) - length(which(!is.na(df$noclass_term_1))))/2
   if (check == test){
     
     # classification terms
@@ -69,7 +72,7 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
     }
     
     #sanity check
-    test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$username))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$hierarchy_name))))
+    test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$username))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$hierarchy_name))))- length(which(!is.na(df$noclass_term_type_1))) - length(which(!is.na(df$noclass_term_1)))
     test2 <- (length(which(!is.na(classification$TERM))) + length(which(!is.na(classification$TERM_TYPE))) - (length(which(classification$TERM_TYPE == "scientific_name"))*2) - (length(which(classification$TERM_TYPE == "display_name"))*2))
     if (test2 == test){
       write.csv(df,"~/GitHub/arctos-r/output/class_load.csv", row.names = FALSE)
