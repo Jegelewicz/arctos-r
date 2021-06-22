@@ -1,25 +1,24 @@
-# classification <- read_excel("~/GitHub/arctos-r/input/temp_ait.xlsx") # read in classification file
-classification <- read_excel("~/GitHub/arctos-r/input/temp_ichnus.xlsx") # read in classification file
-classification <- classification[which(classification$SOURCE == "Arctos"),] # get only Arctos classifications
+classification <- read_excel("~/GitHub/arctos-r/input/temp_cont_ichnus.xlsx") # read in classification file
+# classification <- classification[which(classification$SOURCE == "Arctos"),] # get only Arctos classifications
 
-df <- classification[c("CLASSIFICATION_ID")] # create dataframe of classificationID
-df <- df[which(!duplicated(df$CLASSIFICATION_ID)),] # get list of unique classification IDs
+classification$test <- paste(classification$SCIENTIFIC_NAME,classification$CLASSIFICATION_ID, sep = " ") # create unique identifier for name and classification ID combination
+df <- classification # change dataframe name for ease of use
+df <- df[which(!duplicated(df$test)),] # get list of unique test IDs
+df <- df[c("test")] # create dataframe of test IDs
 justclass <- classification[which(!is.na(classification$POSITION_IN_CLASSIFICATION)),] # get all classification terms
 noclass <- classification[which(is.na(classification$POSITION_IN_CLASSIFICATION)),]
 if (nrow(justclass) + nrow(noclass) == nrow(classification)){
   noclass <- noclass[which(noclass$TERM_TYPE != "display_name" & noclass$TERM_TYPE != "scientific_name"),] # remove scientific name from the list
   check <- nrow(noclass)
-  
   df$username <- "jegelewicz" # add username
   df$hierarchy_name <- "Arctos Ichnology" # add hierarchy name
-  
   sciname <- classification[which(classification$TERM_TYPE == "scientific_name"),] # get list of scientific names
   for (i in 1:nrow(df)){
-    df$scientific_name[i] <- vlookup(classification$SCIENTIFIC_NAME,df$CLASSIFICATION_ID[i],classification$CLASSIFICATION_ID)
+    df$scientific_name[i] <- vlookup(classification$SCIENTIFIC_NAME,df$test[i],classification$test)
   } # add scientific name
   
   # non-classification terms
-  used <- data.frame(CLASSIFICATION_ID=character(),
+  used <- data.frame(test=character(),
                      stringsAsFactors=FALSE) # initialize temporary dataframe
   k <- 0 # initialize variable k
   
@@ -28,13 +27,13 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
     classcount <- length(classes) # get the number of unique class terms
     for (j in 1:(classcount)){
       classj <- noclass[which(noclass$TERM_TYPE == classes[[j]]),] # get all terms in classification position j
-      classj1 <- classj[which(!duplicated(classj$CLASSIFICATION_ID)),] # get deduplicated for class
+      classj1 <- classj[which(!duplicated(classj$test)),] # get deduplicated for class
       used <- rbind.fill(used,classj1) # create a dataframe of used classification terms
       classtyp <- paste('noclass_term_type_', (j+k), sep="") # set class term type column number
       classterm <- paste('noclass_term_', (j+k), sep="") # set class term column number
       for (i in 1:nrow(df)){
-        df[[classtyp]][i] <- vlookup(classj1$TERM_TYPE,df$CLASSIFICATION_ID[i],classj1$CLASSIFICATION_ID) # get the classification term type for the position and taxon
-        df[[classterm]][i] <- vlookup(classj1$TERM,df$CLASSIFICATION_ID[i],classj1$CLASSIFICATION_ID) # get the classification term for the position and taxon
+        df[[classtyp]][i] <- vlookup(classj1$TERM_TYPE,df$test[i],classj1$test) # get the classification term type for the position and taxon
+        df[[classterm]][i] <- vlookup(classj1$TERM,df$test[i],classj1$test) # get the classification term for the position and taxon
       }
     }
     noclass <- noclass[which(noclass$TAXON_TERM_ID %!in% used$TAXON_TERM),] # get the terms that haven't been added
@@ -42,28 +41,39 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
   }  
   
   # sanity check
-  test <- (length(which(!is.na(df))) - length(which(!is.na(df$CLASSIFICATION_ID))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$username))) - length(which(!is.na(df$hierarchy_name))))/2
+  test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$username))) - length(which(!is.na(df$hierarchy_name))))/2
   if (check == test){
     
     # classification terms
-    classes <- max(unique(justclass$POSITION_IN_CLASSIFICATION)) # get maximum number of classification terms in any given classification
-    
-    for (j in 0:classes){
-      classj <- justclass[which(justclass$POSITION_IN_CLASSIFICATION == j),] # get all terms in classification position j
-      classtyp <- paste('class_term_type_', j, sep="") # set class term type column number
-      classterm <- paste('class_term_', j, sep="") # set class term column number
-      for (i in 1:nrow(df)){
-        df[[classtyp]][i] <- vlookup(classj$TERM_TYPE,df$CLASSIFICATION_ID[i],classj$CLASSIFICATION_ID) # get the classification term type for the position and taxon
-        df[[classterm]][i] <- vlookup(classj$TERM,df$CLASSIFICATION_ID[i],classj$CLASSIFICATION_ID) # get the classification term for the position and taxon
+    check2 <- nrow(justclass)
+    used <- data.frame(CLASSIFICATION_ID=character(),
+                       stringsAsFactors=FALSE) # initialize temporary dataframe
+    k <- 0 # initialize variable k
+    while (nrow(justclass) > 0){
+      # classes <- max(unique(justclass$POSITION_IN_CLASSIFICATION)) # get maximum number of classification terms in any given classification
+      classes <- unique(justclass$POSITION_IN_CLASSIFICATION)# get maximum number of classification terms in any given classification
+      classcount <- length(classes) # get the number of unique class terms
+      for (j in 0:classcount){
+        classj <- justclass[which(justclass$POSITION_IN_CLASSIFICATION == j),] # get all terms in classification position j
+        classj1 <- classj[which(!duplicated(classj$test)),] # get deduplicated for class
+        classtyp <- paste('class_term_type_', (j+k), sep="") # set class term type column number
+        classterm <- paste('class_term_', (j+k), sep="") # set class term column number
+        used <- rbind.fill(used,classj1) # create a dataframe of used classification terms
+        for (i in 1:nrow(df)){
+          df[[classtyp]][i] <- vlookup(classj1$TERM_TYPE,df$test[i],classj1$test) # get the classification term type for the position and taxon
+          df[[classterm]][i] <- vlookup(classj1$TERM,df$test[i],classj1$test) # get the classification term for the position and taxon
+        }
       }
+      justclass <- justclass[which(justclass$TAXON_TERM_ID %!in% used$TAXON_TERM_ID),] # get duplicate ranks by CLASSIFICATION_ID
+      k <- k + classcount
     }
     
     #sanity check
-    test <- (length(which(!is.na(df))) - length(which(!is.na(df$CLASSIFICATION_ID))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$username))) - length(which(!is.na(df$hierarchy_name))))/2
-    termcount <- classification[which(classification$TERM_TYPE != "display_name" & classification$TERM_TYPE != "scientific_name"),]
-    if (nrow(termcount) == test){
-    
+    test <- (length(which(!is.na(df))) - length(which(!is.na(df$test))) - length(which(!is.na(df$username))) - length(which(!is.na(df$scientific_name))) - length(which(!is.na(df$hierarchy_name))))
+    test2 <- (length(which(!is.na(classification$TERM))) + length(which(!is.na(classification$TERM_TYPE))) - (length(which(classification$TERM_TYPE == "scientific_name"))*2) - (length(which(classification$TERM_TYPE == "display_name"))*2))
+    if (test2 == test){
       write.csv(df,"~/GitHub/arctos-r/output/class_load.csv", row.names = FALSE)
+      print("no data was lost")
       } else {
         print("data was lost in classification terms")
       }
