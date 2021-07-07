@@ -21,8 +21,5 @@ vlookup <- function(x,y,z){
   x[match(y,z)]
 }
 
-# function: remove '\xa0' chars
-phrase_clean <- function(x) gsub("[\xA0]", "", x)
-
-# function: replace double spaces with single spaces
-space_clean <- function(x) gsub("  ", " ", x)
+# define function: name length
+name_length <- function(x) ifelse(!is.na(x), length(unlist(strsplit(x, ' '))), 0)
