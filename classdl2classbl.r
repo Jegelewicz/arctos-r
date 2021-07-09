@@ -26,7 +26,7 @@ classification$noclass_term_type_1 <- "source_authority" # set up term type for 
 classification$noclass_term_1 <- paste(classification$SOURCE,classification$LASTDATE,sep = " ") # create a source plus date field for source_authority
 df <- classification # change dataframe name for ease of use
 df <- df[which(!duplicated(df$unique_id)),] # get list of unique IDs
-df$source <- "Arctos Ichnology" # set source to which classifications will be loaded
+df$source <- "Arctos" # set source to which classifications will be loaded
 df <- df[c("unique_id","SCIENTIFIC_NAME","source","noclass_term_type_1","noclass_term_1")] # create dataframe of unique ids IDs
 colnames(df) <- tolower(colnames(df)) # lower case column names
 justclass <- classification[which(!is.na(classification$POSITION_IN_CLASSIFICATION)),] # get all classification terms
