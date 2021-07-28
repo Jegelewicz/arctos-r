@@ -1,0 +1,1322 @@
+SCIENTIFIC_NAME,TAXON_NAME_ID,TAXON_TERM_ID,CLASSIFICATION_ID,TERM,TERM_TYPE,SOURCE,POSITION_IN_CLASSIFICATION
+unidentifiable,0,1427809,0,unidentifiable,genus,Arctos,1
+unidentifiable,0,1427811,0,valid,taxon_status,Arctos,
+unidentifiable,0,1427812,0,University of Alaska Museum,source_authority,Arctos,
+unidentifiable,0,1427813,0,noncompliant,nomenclatural_code,Arctos,
+unidentifiable,0,510186967,0,<i>unidentifiable</i>,display_name,Arctos,
+unidentifiable,0,510186968,0,unidentifiable,scientific_name,Arctos,
+unidentifiable,0,1314705134,0,unidentifiable,scientific_name,Arctos,
+unidentifiable,0,1314705135,0,<i>unidentifiable</i>,display_name,Arctos,
+Cetacea,102,1427840,102,Animalia,kingdom,Arctos,1
+Cetacea,102,1427841,102,Chordata,phylum,Arctos,2
+Cetacea,102,1427842,102,Mammalia,class,Arctos,3
+Cetacea,102,1427843,102,Cetacea,order,Arctos,4
+Cetacea,102,1427845,102,valid,taxon_status,Arctos,
+Cetacea,102,1427846,102,University of Alaska Museum,source_authority,Arctos,
+Cetacea,102,1427847,102,ICZN,nomenclatural_code,Arctos,
+Cetacea,102,510183169,102,Cetacea,display_name,Arctos,
+Cetacea,102,510183170,102,Cetacea,scientific_name,Arctos,
+Cetacea,102,1314725990,102,Cetacea,scientific_name,Arctos,
+Cetacea,102,1314725991,102,Cetacea,display_name,Arctos,
+Spermophilus,480,142066972,480,ICZN,nomenclatural_code,Arctos,
+Spermophilus,480,142066973,480,Museum of Vertebrate Zoology,source_authority,Arctos,
+Spermophilus,480,142066974,480,valid,taxon_status,Arctos,
+Spermophilus,480,142066975,480,Animalia,kingdom,Arctos,1
+Spermophilus,480,142066976,480,Chordata,phylum,Arctos,2
+Spermophilus,480,142066977,480,Mammalia,class,Arctos,3
+Spermophilus,480,142066978,480,Rodentia,order,Arctos,4
+Spermophilus,480,142066979,480,Sciurognathi,suborder,Arctos,5
+Spermophilus,480,142066980,480,Sciuridae,family,Arctos,6
+Spermophilus,480,142066981,480,Xerinae,subfamily,Arctos,7
+Spermophilus,480,142066982,480,Marmotini,tribe,Arctos,8
+Spermophilus,480,142066983,480,Spermophilus,genus,Arctos,9
+Spermophilus,480,514792548,480,<i>Spermophilus</i>,display_name,Arctos,
+Spermophilus,480,514792549,480,Spermophilus,scientific_name,Arctos,
+Glycymeris,73318,1502686,73318,Animalia,kingdom,Arctos,1
+Glycymeris,73318,1502687,73318,Mollusca,phylum,Arctos,2
+Glycymeris,73318,1502688,73318,Bivalvia,class,Arctos,3
+Glycymeris,73318,1502689,73318,Arcoida,order,Arctos,4
+Glycymeris,73318,1502690,73318,Glycymerididae,family,Arctos,5
+Glycymeris,73318,1502691,73318,Glycymeris,genus,Arctos,6
+Glycymeris,73318,1502693,73318,valid,taxon_status,Arctos,
+Glycymeris,73318,1502694,73318,University of Alaska Museum,source_authority,Arctos,
+Glycymeris,73318,1502695,73318,ICZN,nomenclatural_code,Arctos,
+Glycymeris,73318,510186357,73318,<i>Glycymeris</i>,display_name,Arctos,
+Glycymeris,73318,510186358,73318,Glycymeris,scientific_name,Arctos,
+Gastropoda,73626,396481931,73626,"Cuvier, 1797",author_text,Arctos,
+Gastropoda,73626,396481933,73626,ICZN,nomenclatural_code,Arctos,
+Gastropoda,73626,396481934,73626,Animalia,kingdom,Arctos,1
+Gastropoda,73626,396481935,73626,Protostomia,infrakingdom,Arctos,2
+Gastropoda,73626,396481936,73626,Lophozoa,superphylum,Arctos,3
+Gastropoda,73626,396481937,73626,Mollusca,phylum,Arctos,4
+Gastropoda,73626,396481938,73626,Gastropoda,class,Arctos,5
+Gastropoda,73626,509959017,73626,Gastropoda,display_name,Arctos,
+Gastropoda,73626,509959018,73626,Gastropoda,scientific_name,Arctos,
+Trichotropis,74209,1508269,74209,Animalia,kingdom,Arctos,1
+Trichotropis,74209,1508270,74209,Mollusca,phylum,Arctos,2
+Trichotropis,74209,1508271,74209,Gastropoda,class,Arctos,3
+Trichotropis,74209,1508272,74209,Mesogastropoda,order,Arctos,4
+Trichotropis,74209,1508273,74209,Trichotropidae,family,Arctos,5
+Trichotropis,74209,1508274,74209,Trichotropis,genus,Arctos,6
+Trichotropis,74209,1508276,74209,valid,taxon_status,Arctos,
+Trichotropis,74209,1508277,74209,University of Alaska Museum,source_authority,Arctos,
+Trichotropis,74209,1508278,74209,ICZN,nomenclatural_code,Arctos,
+Trichotropis,74209,510187615,74209,<i>Trichotropis</i>,display_name,Arctos,
+Trichotropis,74209,510187616,74209,Trichotropis,scientific_name,Arctos,
+Turbo,74286,1508873,74286,Animalia,kingdom,Arctos,1
+Turbo,74286,1508874,74286,Mollusca,phylum,Arctos,2
+Turbo,74286,1508875,74286,Gastropoda,class,Arctos,3
+Turbo,74286,1508876,74286,Archaeogastropoda,order,Arctos,4
+Turbo,74286,1508877,74286,Turbinidae,family,Arctos,5
+Turbo,74286,1508878,74286,Turbo,genus,Arctos,6
+Turbo,74286,1508880,74286,valid,taxon_status,Arctos,
+Turbo,74286,1508881,74286,University of Alaska Museum,source_authority,Arctos,
+Turbo,74286,1508882,74286,ICZN,nomenclatural_code,Arctos,
+Turbo,74286,510187761,74286,<i>Turbo</i>,display_name,Arctos,
+Turbo,74286,510187762,74286,Turbo,scientific_name,Arctos,
+Camelidae,1075044,1515295,1075044,Animalia,kingdom,Arctos,1
+Camelidae,1075044,1515296,1075044,Chordata,phylum,Arctos,2
+Camelidae,1075044,1515297,1075044,Mammalia,class,Arctos,3
+Camelidae,1075044,1515298,1075044,Artiodactyla,order,Arctos,4
+Camelidae,1075044,1515299,1075044,Camelidae,family,Arctos,5
+Camelidae,1075044,1515301,1075044,valid,taxon_status,Arctos,
+Camelidae,1075044,1515302,1075044,Museum of Southwestern Biology,source_authority,Arctos,
+Camelidae,1075044,1515303,1075044,ICZN,nomenclatural_code,Arctos,
+Camelidae,1075044,510187009,1075044,Camelidae,display_name,Arctos,
+Camelidae,1075044,510187010,1075044,Camelidae,scientific_name,Arctos,
+Rodentia,1108739,1578710,1108739,Animalia,kingdom,Arctos,1
+Rodentia,1108739,1578711,1108739,Chordata,phylum,Arctos,2
+Rodentia,1108739,1578712,1108739,Mammalia,class,Arctos,3
+Rodentia,1108739,1578713,1108739,Rodentia,order,Arctos,4
+Rodentia,1108739,1578715,1108739,valid,taxon_status,Arctos,
+Rodentia,1108739,1578716,1108739,Museum of Southwestern Biology,source_authority,Arctos,
+Rodentia,1108739,1578717,1108739,ICZN,nomenclatural_code,Arctos,
+Rodentia,1108739,510196301,1108739,Rodentia,display_name,Arctos,
+Rodentia,1108739,510196302,1108739,Rodentia,scientific_name,Arctos,
+Sciurus,1108934,217185,1108934,Animalia,kingdom,Arctos,1
+Sciurus,1108934,217186,1108934,Chordata,phylum,Arctos,2
+Sciurus,1108934,217187,1108934,Mammalia,class,Arctos,3
+Sciurus,1108934,217188,1108934,Rodentia,order,Arctos,4
+Sciurus,1108934,217189,1108934,Sciurognathi,suborder,Arctos,5
+Sciurus,1108934,217190,1108934,Sciuridae,family,Arctos,6
+Sciurus,1108934,217191,1108934,Sciurinae,subfamily,Arctos,7
+Sciurus,1108934,217192,1108934,Sciurus,genus,Arctos,8
+Sciurus,1108934,217194,1108934,valid,taxon_status,Arctos,
+Sciurus,1108934,217195,1108934,Museum of Vertebrate Zoology,source_authority,Arctos,
+Sciurus,1108934,217196,1108934,ICZN,nomenclatural_code,Arctos,
+Sciurus,1108934,510027411,1108934,<i>Sciurus</i>,display_name,Arctos,
+Sciurus,1108934,510027412,1108934,Sciurus,scientific_name,Arctos,
+Lithophaga,2054645,8744394,2054645,Animalia,kingdom,Arctos,1
+Lithophaga,2054645,8744395,2054645,Mollusca,phylum,Arctos,2
+Lithophaga,2054645,8744396,2054645,Bivalvia,class,Arctos,3
+Lithophaga,2054645,8744397,2054645,Mytiloida,order,Arctos,4
+Lithophaga,2054645,8744398,2054645,Mytilidae,family,Arctos,5
+Lithophaga,2054645,8744399,2054645,Lithophaga,genus,Arctos,6
+Lithophaga,2054645,8744401,2054645,valid,taxon_status,Arctos,
+Lithophaga,2054645,8744402,2054645,ITIS,source_authority,Arctos,
+Lithophaga,2054645,8744403,2054645,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Lithophaga,2054645,8744404,2054645,ICZN,nomenclatural_code,Arctos,
+Lithophaga,2054645,511193461,2054645,<i>Lithophaga</i>,display_name,Arctos,
+Lithophaga,2054645,511193462,2054645,Lithophaga,scientific_name,Arctos,
+Serpula,2054884,8747203,2054884,Animalia,kingdom,Arctos,1
+Serpula,2054884,8747204,2054884,Annelida,phylum,Arctos,2
+Serpula,2054884,8747205,2054884,Polychaeta,class,Arctos,3
+Serpula,2054884,8747206,2054884,Canalipalpata,order,Arctos,4
+Serpula,2054884,8747207,2054884,Sabellida,suborder,Arctos,5
+Serpula,2054884,8747208,2054884,Serpulidae,family,Arctos,6
+Serpula,2054884,8747209,2054884,Serpula,genus,Arctos,7
+Serpula,2054884,8747211,2054884,valid,taxon_status,Arctos,
+Serpula,2054884,8747212,2054884,ITIS,source_authority,Arctos,
+Serpula,2054884,8747213,2054884,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Serpula,2054884,8747214,2054884,ICZN,nomenclatural_code,Arctos,
+Serpula,2054884,511189543,2054884,<i>Serpula</i>,display_name,Arctos,
+Serpula,2054884,511189544,2054884,Serpula,scientific_name,Arctos,
+Serripes,2055302,621707080,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,"Gould, 1841",author_text,Arctos,
+Serripes,2055302,621707081,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,ICZN,nomenclatural_code,Arctos,
+Serripes,2055302,621707082,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Serripes,2055302,621707083,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,valid,taxon_status,Arctos,
+Serripes,2055302,621707085,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,ITIS,source_authority,Arctos,
+Serripes,2055302,621707086,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Animalia,kingdom,Arctos,1
+Serripes,2055302,621707087,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Mollusca,phylum,Arctos,2
+Serripes,2055302,621707088,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Bivalvia,class,Arctos,3
+Serripes,2055302,621707089,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Heterodonta,subclass,Arctos,4
+Serripes,2055302,621707090,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Euheterodonta,infraclass,Arctos,5
+Serripes,2055302,621707091,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Imparidentia,superorder,Arctos,6
+Serripes,2055302,621707092,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Cardiida,order,Arctos,7
+Serripes,2055302,621707093,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Cardioidea,superfamily,Arctos,8
+Serripes,2055302,621707094,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Cardiidae,family,Arctos,9
+Serripes,2055302,621707095,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Serripes,genus,Arctos,10
+Serripes,2055302,621715998,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,"<i>Serripes</i> Gould, 1841",display_name,Arctos,
+Serripes,2055302,621715999,66B9FB21-D7CB-BEF1-29336C9F66DE95BA,Serripes,scientific_name,Arctos,
+Teredo,2055665,621714059,66DE6F67-02C6-2C21-4FD47493132331B0,ICZN,nomenclatural_code,Arctos,
+Teredo,2055665,621714060,66DE6F67-02C6-2C21-4FD47493132331B0,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Teredo,2055665,621714061,66DE6F67-02C6-2C21-4FD47493132331B0,valid,taxon_status,Arctos,
+Teredo,2055665,621714063,66DE6F67-02C6-2C21-4FD47493132331B0,ITIS,source_authority,Arctos,
+Teredo,2055665,621714064,66DE6F67-02C6-2C21-4FD47493132331B0,Animalia,kingdom,Arctos,1
+Teredo,2055665,621714065,66DE6F67-02C6-2C21-4FD47493132331B0,Mollusca,phylum,Arctos,2
+Teredo,2055665,621714066,66DE6F67-02C6-2C21-4FD47493132331B0,Bivalvia,class,Arctos,3
+Teredo,2055665,621714067,66DE6F67-02C6-2C21-4FD47493132331B0,Heterodonta,subclass,Arctos,4
+Teredo,2055665,621714068,66DE6F67-02C6-2C21-4FD47493132331B0,Euheterodonta,infraclass,Arctos,5
+Teredo,2055665,621714069,66DE6F67-02C6-2C21-4FD47493132331B0,Imparidentia,superorder,Arctos,6
+Teredo,2055665,621714070,66DE6F67-02C6-2C21-4FD47493132331B0,Myida,order,Arctos,7
+Teredo,2055665,621714071,66DE6F67-02C6-2C21-4FD47493132331B0,Pholadoidea,superfamily,Arctos,8
+Teredo,2055665,621714072,66DE6F67-02C6-2C21-4FD47493132331B0,Teredinidae,family,Arctos,9
+Teredo,2055665,621714073,66DE6F67-02C6-2C21-4FD47493132331B0,Teredo,genus,Arctos,10
+Teredo,2055665,621750502,66DE6F67-02C6-2C21-4FD47493132331B0,<i>Teredo</i>,display_name,Arctos,
+Teredo,2055665,621750503,66DE6F67-02C6-2C21-4FD47493132331B0,Teredo,scientific_name,Arctos,
+Turritella,2056584,1644676,2056584,Animalia,kingdom,Arctos,1
+Turritella,2056584,1644677,2056584,Mollusca,phylum,Arctos,2
+Turritella,2056584,1644678,2056584,Gastropoda,class,Arctos,3
+Turritella,2056584,1644679,2056584,Neotaenioglossa,order,Arctos,4
+Turritella,2056584,1644680,2056584,Turritellidae,family,Arctos,5
+Turritella,2056584,1644681,2056584,Turritella,genus,Arctos,6
+Turritella,2056584,1644683,2056584,valid,taxon_status,Arctos,
+Turritella,2056584,1644684,2056584,ITIS,source_authority,Arctos,
+Turritella,2056584,1644685,2056584,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Turritella,2056584,1644686,2056584,ICZN,nomenclatural_code,Arctos,
+Turritella,2056584,510300035,2056584,<i>Turritella</i>,display_name,Arctos,
+Turritella,2056584,510300036,2056584,Turritella,scientific_name,Arctos,
+Lingula,2061941,699572929,2061941,ICZN,nomenclatural_code,Arctos,
+Lingula,2061941,699572930,2061941,Imported from ITIS 6 Feb 2007,remark,Arctos,
+Lingula,2061941,699572931,2061941,nomenclatural_code updated from unknown based on ITIS classification data,remark,Arctos,
+Lingula,2061941,699572938,2061941,ITIS,source_authority,Arctos,
+Lingula,2061941,699572944,2061941,valid,taxon_status,Arctos,
+Lingula,2061941,699572955,2061941,Animalia,kingdom,Arctos,1
+Lingula,2061941,699572960,2061941,Brachiopoda,phylum,Arctos,2
+Lingula,2061941,699572963,2061941,Inarticulata,class,Arctos,3
+Lingula,2061941,699572965,2061941,Lingulida,order,Arctos,4
+Lingula,2061941,699572968,2061941,Lingulidae,family,Arctos,5
+Lingula,2061941,699572970,2061941,Lingula,genus,Arctos,6
+Lingula,2061941,699575482,2061941,<i>Lingula</i>,display_name,Arctos,
+Lingula,2061941,699575483,2061941,Lingula,scientific_name,Arctos,
+Mammalia,2079925,1652135,2079925,Animalia,kingdom,Arctos,1
+Mammalia,2079925,1652136,2079925,Chordata,phylum,Arctos,2
+Mammalia,2079925,1652137,2079925,Mammalia,class,Arctos,3
+Mammalia,2079925,1652139,2079925,valid,taxon_status,Arctos,
+Mammalia,2079925,1652140,2079925,ITIS,source_authority,Arctos,
+Mammalia,2079925,1652141,2079925,ICZN,nomenclatural_code,Arctos,
+Mammalia,2079925,510299321,2079925,Mammalia,display_name,Arctos,
+Mammalia,2079925,510299322,2079925,Mammalia,scientific_name,Arctos,
+Annularia,3002552,1051024651,B6DBC611-9C7C-3C0A-0388A344130C62E5,Hochst.,author_text,Arctos,
+Annularia,3002552,1051024652,B6DBC611-9C7C-3C0A-0388A344130C62E5,ICBN,nomenclatural_code,Arctos,
+Annularia,3002552,1051024653,B6DBC611-9C7C-3C0A-0388A344130C62E5,IPNI,source_authority,Arctos,
+Annularia,3002552,1051024654,B6DBC611-9C7C-3C0A-0388A344130C62E5,valid,taxon_status,Arctos,
+Annularia,3002552,1051024655,B6DBC611-9C7C-3C0A-0388A344130C62E5,Plantae,kingdom,Arctos,1
+Annularia,3002552,1051024656,B6DBC611-9C7C-3C0A-0388A344130C62E5,Tracheophyta,phylum,Arctos,2
+Annularia,3002552,1051024657,B6DBC611-9C7C-3C0A-0388A344130C62E5,Magnoliopsida,class,Arctos,3
+Annularia,3002552,1051024658,B6DBC611-9C7C-3C0A-0388A344130C62E5,Gentianales,order,Arctos,4
+Annularia,3002552,1051024659,B6DBC611-9C7C-3C0A-0388A344130C62E5,Apocynaceae,family,Arctos,5
+Annularia,3002552,1051024660,B6DBC611-9C7C-3C0A-0388A344130C62E5,Annularia,genus,Arctos,6
+Annularia,3002552,1051024661,B6DBC611-9C7C-3C0A-0388A344130C62E5,Annularia,scientific_name,Arctos,
+Annularia,3002552,1051024662,B6DBC611-9C7C-3C0A-0388A344130C62E5,<i>Annularia</i> Hochst.,display_name,Arctos,
+Walchia piniformis,3159363,1152881248,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,ICBN,nomenclatural_code,Arctos,
+Walchia piniformis,3159363,1152881249,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,UCMP,source_authority,Arctos,
+Walchia piniformis,3159363,1152881250,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,valid,taxon_status,Arctos,
+Walchia piniformis,3159363,1152881251,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Plantae,kingdom,Arctos,1
+Walchia piniformis,3159363,1152881252,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Tracheophyta,phylum,Arctos,2
+Walchia piniformis,3159363,1152881253,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Gymnospermopsida,class,Arctos,3
+Walchia piniformis,3159363,1152881254,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Coniferales,order,Arctos,4
+Walchia piniformis,3159363,1152881255,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Utrechtiaceae,family,Arctos,5
+Walchia piniformis,3159363,1152881256,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Walchia,genus,Arctos,6
+Walchia piniformis,3159363,1152881257,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Walchia piniformis,species,Arctos,7
+Walchia piniformis,3159363,1226203463,7EF29B95-E070-4A1C-A9CB4C594C6D5E8D,Walchia piniformis,scientific_name,Arctos,
+Rhinocerotidae,3160458,22248557,3160458,Animalia,kingdom,Arctos,1
+Rhinocerotidae,3160458,22248558,3160458,Chordata,phylum,Arctos,2
+Rhinocerotidae,3160458,22248559,3160458,Mammalia,class,Arctos,3
+Rhinocerotidae,3160458,22248560,3160458,Perissodactyla,order,Arctos,4
+Rhinocerotidae,3160458,22248561,3160458,Rhinocerotidae,family,Arctos,5
+Rhinocerotidae,3160458,22248563,3160458,valid,taxon_status,Arctos,
+Rhinocerotidae,3160458,22248564,3160458,UCMP,source_authority,Arctos,
+Rhinocerotidae,3160458,22248565,3160458,ICZN,nomenclatural_code,Arctos,
+Rhinocerotidae,3160458,512990820,3160458,Rhinocerotidae,display_name,Arctos,
+Rhinocerotidae,3160458,512990821,3160458,Rhinocerotidae,scientific_name,Arctos,
+Antilocapridae,3160521,22249211,3160521,Animalia,kingdom,Arctos,1
+Antilocapridae,3160521,22249212,3160521,Chordata,phylum,Arctos,2
+Antilocapridae,3160521,22249213,3160521,Mammalia,class,Arctos,3
+Antilocapridae,3160521,22249214,3160521,Artiodactyla,order,Arctos,4
+Antilocapridae,3160521,22249215,3160521,Antilocapridae,family,Arctos,5
+Antilocapridae,3160521,22249217,3160521,valid,taxon_status,Arctos,
+Antilocapridae,3160521,22249218,3160521,UCMP,source_authority,Arctos,
+Antilocapridae,3160521,22249219,3160521,ICZN,nomenclatural_code,Arctos,
+Antilocapridae,3160521,513000052,3160521,Antilocapridae,display_name,Arctos,
+Antilocapridae,3160521,513000053,3160521,Antilocapridae,scientific_name,Arctos,
+Aves,3160582,788102916,3160582,"Linnaeus, 1758",author_text,Arctos,
+Aves,3160582,788102918,3160582,ICZN,nomenclatural_code,Arctos,
+Aves,3160582,788102920,3160582,ITIS,source_authority,Arctos,
+Aves,3160582,788102921,3160582,valid,taxon_status,Arctos,
+Aves,3160582,788102922,3160582,Animalia,kingdom,Arctos,1
+Aves,3160582,788102923,3160582,Chordata,phylum,Arctos,2
+Aves,3160582,788102924,3160582,Aves,class,Arctos,3
+Aves,3160582,788102925,3160582,Aves,display_name,Arctos,
+Aves,3160582,788102926,3160582,Aves,scientific_name,Arctos,
+Chondrichthyes,3160725,1685192,3160725,Animalia,kingdom,Arctos,1
+Chondrichthyes,3160725,1685193,3160725,Chordata,phylum,Arctos,2
+Chondrichthyes,3160725,1685194,3160725,Chondrichthyes,class,Arctos,3
+Chondrichthyes,3160725,1685196,3160725,valid,taxon_status,Arctos,
+Chondrichthyes,3160725,1685197,3160725,UCMP,source_authority,Arctos,
+Chondrichthyes,3160725,1685198,3160725,ICZN,nomenclatural_code,Arctos,
+Chondrichthyes,3160725,510281043,3160725,Chondrichthyes,display_name,Arctos,
+Chondrichthyes,3160725,510281044,3160725,Chondrichthyes,scientific_name,Arctos,
+Perissodactyla,3160909,22259437,3160909,Animalia,kingdom,Arctos,1
+Perissodactyla,3160909,22259438,3160909,Chordata,phylum,Arctos,2
+Perissodactyla,3160909,22259439,3160909,Mammalia,class,Arctos,3
+Perissodactyla,3160909,22259440,3160909,Perissodactyla,order,Arctos,4
+Perissodactyla,3160909,22259442,3160909,valid,taxon_status,Arctos,
+Perissodactyla,3160909,22259443,3160909,UCMP,source_authority,Arctos,
+Perissodactyla,3160909,22259444,3160909,ICZN,nomenclatural_code,Arctos,
+Perissodactyla,3160909,513013910,3160909,Perissodactyla,display_name,Arctos,
+Perissodactyla,3160909,513013911,3160909,Perissodactyla,scientific_name,Arctos,
+Hadrosauridae,3161067,141897203,3161067,ICZN,nomenclatural_code,Arctos,
+Hadrosauridae,3161067,141897204,3161067,UCMP,source_authority,Arctos,
+Hadrosauridae,3161067,141897205,3161067,valid,taxon_status,Arctos,
+Hadrosauridae,3161067,141897206,3161067,Animalia,kingdom,Arctos,1
+Hadrosauridae,3161067,141897207,3161067,Chordata,phylum,Arctos,2
+Hadrosauridae,3161067,141897208,3161067,Reptilia,class,Arctos,3
+Hadrosauridae,3161067,141897209,3161067,Ornithischia,order,Arctos,4
+Hadrosauridae,3161067,141897210,3161067,Ornithopoda,,Arctos,5
+Hadrosauridae,3161067,141897211,3161067,Hadrosauridae,family,Arctos,6
+Hadrosauridae,3161067,514787096,3161067,Hadrosauridae,display_name,Arctos,
+Hadrosauridae,3161067,514787097,3161067,Hadrosauridae,scientific_name,Arctos,
+Amphibia,3161108,22261339,3161108,Animalia,kingdom,Arctos,1
+Amphibia,3161108,22261340,3161108,Chordata,phylum,Arctos,2
+Amphibia,3161108,22261341,3161108,Amphibia,class,Arctos,3
+Amphibia,3161108,22261343,3161108,valid,taxon_status,Arctos,
+Amphibia,3161108,22261344,3161108,UCMP,source_authority,Arctos,
+Amphibia,3161108,22261345,3161108,ICZN,nomenclatural_code,Arctos,
+Amphibia,3161108,513031954,3161108,Amphibia,display_name,Arctos,
+Amphibia,3161108,513031955,3161108,Amphibia,scientific_name,Arctos,
+Reptilia,3161417,1685416,3161417,Animalia,kingdom,Arctos,1
+Reptilia,3161417,1685417,3161417,Chordata,phylum,Arctos,2
+Reptilia,3161417,1685418,3161417,Reptilia,class,Arctos,3
+Reptilia,3161417,1685420,3161417,valid,taxon_status,Arctos,
+Reptilia,3161417,1685421,3161417,UCMP,source_authority,Arctos,
+Reptilia,3161417,1685422,3161417,ICZN,nomenclatural_code,Arctos,
+Reptilia,3161417,510281543,3161417,Reptilia,display_name,Arctos,
+Reptilia,3161417,510281544,3161417,Reptilia,scientific_name,Arctos,
+Grallator cuneatus,3161499,22265027,3161499,Animalia,kingdom,Arctos,1
+Grallator cuneatus,3161499,22265028,3161499,Chordata,phylum,Arctos,2
+Grallator cuneatus,3161499,22265029,3161499,Reptilia,class,Arctos,3
+Grallator cuneatus,3161499,22265030,3161499,Ichnites,order,Arctos,4
+Grallator cuneatus,3161499,22265031,3161499,Grallatoridae,family,Arctos,5
+Grallator cuneatus,3161499,22265032,3161499,Grallator,genus,Arctos,6
+Grallator cuneatus,3161499,22265033,3161499,Grallator cuneatus,species,Arctos,7
+Grallator cuneatus,3161499,22265035,3161499,valid,taxon_status,Arctos,
+Grallator cuneatus,3161499,22265036,3161499,UCMP,source_authority,Arctos,
+Grallator cuneatus,3161499,22265037,3161499,ICZN,nomenclatural_code,Arctos,
+Grallator cuneatus,3161499,513010228,3161499,<i>Grallator cuneatus</i>,display_name,Arctos,
+Grallator cuneatus,3161499,513010229,3161499,Grallator cuneatus,scientific_name,Arctos,
+Saurischia,3161507,1685434,3161507,Animalia,kingdom,Arctos,1
+Saurischia,3161507,1685435,3161507,Chordata,phylum,Arctos,2
+Saurischia,3161507,1685436,3161507,Reptilia,class,Arctos,3
+Saurischia,3161507,1685437,3161507,Saurischia,order,Arctos,4
+Saurischia,3161507,1685439,3161507,valid,taxon_status,Arctos,
+Saurischia,3161507,1685440,3161507,UCMP,source_authority,Arctos,
+Saurischia,3161507,1685441,3161507,ICZN,nomenclatural_code,Arctos,
+Saurischia,3161507,510272649,3161507,Saurischia,display_name,Arctos,
+Saurischia,3161507,510272650,3161507,Saurischia,scientific_name,Arctos,
+Pelycosauria,3161665,22266632,3161665,Animalia,kingdom,Arctos,1
+Pelycosauria,3161665,22266633,3161665,Chordata,phylum,Arctos,2
+Pelycosauria,3161665,22266634,3161665,Reptilia,class,Arctos,3
+Pelycosauria,3161665,22266635,3161665,Pelycosauria,order,Arctos,4
+Pelycosauria,3161665,22266637,3161665,valid,taxon_status,Arctos,
+Pelycosauria,3161665,22266638,3161665,UCMP,source_authority,Arctos,
+Pelycosauria,3161665,22266639,3161665,ICZN,nomenclatural_code,Arctos,
+Pelycosauria,3161665,513018906,3161665,Pelycosauria,display_name,Arctos,
+Pelycosauria,3161665,513018907,3161665,Pelycosauria,scientific_name,Arctos,
+Pterosauria,3161693,22266905,3161693,Animalia,kingdom,Arctos,1
+Pterosauria,3161693,22266906,3161693,Chordata,phylum,Arctos,2
+Pterosauria,3161693,22266907,3161693,Reptilia,class,Arctos,3
+Pterosauria,3161693,22266908,3161693,Pterosauria,order,Arctos,4
+Pterosauria,3161693,22266910,3161693,valid,taxon_status,Arctos,
+Pterosauria,3161693,22266911,3161693,UCMP,source_authority,Arctos,
+Pterosauria,3161693,22266912,3161693,ICZN,nomenclatural_code,Arctos,
+Pterosauria,3161693,513007770,3161693,Pterosauria,display_name,Arctos,
+Pterosauria,3161693,513007771,3161693,Pterosauria,scientific_name,Arctos,
+Cheirotherium,3161724,22267119,3161724,Animalia,kingdom,Arctos,1
+Cheirotherium,3161724,22267120,3161724,Chordata,phylum,Arctos,2
+Cheirotherium,3161724,22267121,3161724,Reptilia,class,Arctos,3
+Cheirotherium,3161724,22267122,3161724,Ichnites,order,Arctos,4
+Cheirotherium,3161724,22267123,3161724,Cheirotheriidae,family,Arctos,5
+Cheirotherium,3161724,22267124,3161724,Cheirotherium,genus,Arctos,6
+Cheirotherium,3161724,22267126,3161724,valid,taxon_status,Arctos,
+Cheirotherium,3161724,22267127,3161724,UCMP,source_authority,Arctos,
+Cheirotherium,3161724,22267128,3161724,ICZN,nomenclatural_code,Arctos,
+Cheirotherium,3161724,513025535,3161724,<i>Cheirotherium</i>,display_name,Arctos,
+Cheirotherium,3161724,513025536,3161724,Cheirotherium,scientific_name,Arctos,
+Anchisauripus,3161810,22267977,3161810,Animalia,kingdom,Arctos,1
+Anchisauripus,3161810,22267978,3161810,Chordata,phylum,Arctos,2
+Anchisauripus,3161810,22267979,3161810,Reptilia,class,Arctos,3
+Anchisauripus,3161810,22267980,3161810,Ichnites,order,Arctos,4
+Anchisauripus,3161810,22267981,3161810,Anchisauripodidae,family,Arctos,5
+Anchisauripus,3161810,22267982,3161810,Anchisauripus,genus,Arctos,6
+Anchisauripus,3161810,22267984,3161810,valid,taxon_status,Arctos,
+Anchisauripus,3161810,22267985,3161810,UCMP,source_authority,Arctos,
+Anchisauripus,3161810,22267986,3161810,ICZN,nomenclatural_code,Arctos,
+Anchisauripus,3161810,513008798,3161810,<i>Anchisauripus</i>,display_name,Arctos,
+Anchisauripus,3161810,513008799,3161810,Anchisauripus,scientific_name,Arctos,
+Osteichthyes,3161928,729636158,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Huxley 1880,author_text,Arctos,
+Osteichthyes,3161928,729636160,32B3B784-D1BC-42B7-07D322A9EF9E7C78,ICZN,nomenclatural_code,Arctos,
+Osteichthyes,3161928,729636162,32B3B784-D1BC-42B7-07D322A9EF9E7C78,UCMP,source_authority,Arctos,
+Osteichthyes,3161928,729636163,32B3B784-D1BC-42B7-07D322A9EF9E7C78,valid,taxon_status,Arctos,
+Osteichthyes,3161928,729636164,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Animalia,kingdom,Arctos,1
+Osteichthyes,3161928,729636165,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Chordata,phylum,Arctos,2
+Osteichthyes,3161928,729636166,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Vertebrata,subphylum,Arctos,3
+Osteichthyes,3161928,729636167,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Osteichthyes,superclass,Arctos,4
+Osteichthyes,3161928,729636168,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Osteichthyes,display_name,Arctos,
+Osteichthyes,3161928,729636169,32B3B784-D1BC-42B7-07D322A9EF9E7C78,Osteichthyes,scientific_name,Arctos,
+Dipnoi,3162091,22276181,3162091,Osteichthyes,class,Arctos,1
+Dipnoi,3162091,22276182,3162091,Dipnoi,order,Arctos,2
+Dipnoi,3162091,22276184,3162091,valid,taxon_status,Arctos,
+Dipnoi,3162091,22276185,3162091,UCMP,source_authority,Arctos,
+Dipnoi,3162091,22276186,3162091,ICZN,nomenclatural_code,Arctos,
+Dipnoi,3162091,404707852,3162091,nomenclatural_code updated from unknown based on ITIS classification data,remark,Arctos,
+Dipnoi,3162091,513058616,3162091,Dipnoi,display_name,Arctos,
+Dipnoi,3162091,513058617,3162091,Dipnoi,scientific_name,Arctos,
+Heterostraci,3162182,22276969,3162182,Agnatha,class,Arctos,1
+Heterostraci,3162182,22276970,3162182,Heterostraci,order,Arctos,2
+Heterostraci,3162182,22276972,3162182,valid,taxon_status,Arctos,
+Heterostraci,3162182,22276973,3162182,UCMP,source_authority,Arctos,
+Heterostraci,3162182,22276974,3162182,ICZN,nomenclatural_code,Arctos,
+Heterostraci,3162182,403892773,3162182,nomenclatural_code updated from unknown based on GlobalNames classification data,remark,Arctos,
+Heterostraci,3162182,513057648,3162182,Heterostraci,display_name,Arctos,
+Heterostraci,3162182,513057649,3162182,Heterostraci,scientific_name,Arctos,
+Captorhinidae,3162419,22279212,3162419,Animalia,kingdom,Arctos,1
+Captorhinidae,3162419,22279213,3162419,Chordata,phylum,Arctos,2
+Captorhinidae,3162419,22279214,3162419,Reptilia,class,Arctos,3
+Captorhinidae,3162419,22279215,3162419,Captorhinida,order,Arctos,4
+Captorhinidae,3162419,22279216,3162419,Captorhinidae,family,Arctos,5
+Captorhinidae,3162419,22279218,3162419,valid,taxon_status,Arctos,
+Captorhinidae,3162419,22279219,3162419,UCMP,source_authority,Arctos,
+Captorhinidae,3162419,22279220,3162419,ICZN,nomenclatural_code,Arctos,
+Captorhinidae,3162419,513063620,3162419,Captorhinidae,display_name,Arctos,
+Captorhinidae,3162419,513063621,3162419,Captorhinidae,scientific_name,Arctos,
+Erpetopus willistoni,3162763,22282221,3162763,Animalia,kingdom,Arctos,1
+Erpetopus willistoni,3162763,22282222,3162763,Chordata,phylum,Arctos,2
+Erpetopus willistoni,3162763,22282223,3162763,Reptilia,class,Arctos,3
+Erpetopus willistoni,3162763,22282224,3162763,Ichnites,order,Arctos,4
+Erpetopus willistoni,3162763,22282225,3162763,Erpetopus,genus,Arctos,5
+Erpetopus willistoni,3162763,22282226,3162763,Erpetopus willistoni,species,Arctos,6
+Erpetopus willistoni,3162763,22282228,3162763,valid,taxon_status,Arctos,
+Erpetopus willistoni,3162763,22282229,3162763,UCMP,source_authority,Arctos,
+Erpetopus willistoni,3162763,22282230,3162763,ICZN,nomenclatural_code,Arctos,
+Erpetopus willistoni,3162763,513055158,3162763,<i>Erpetopus willistoni</i>,display_name,Arctos,
+Erpetopus willistoni,3162763,513055159,3162763,Erpetopus willistoni,scientific_name,Arctos,
+Eriptychius,3163067,22285127,3163067,Agnatha,class,Arctos,1
+Eriptychius,3163067,22285128,3163067,Heterostraci,order,Arctos,2
+Eriptychius,3163067,22285129,3163067,Eriptychiidae,family,Arctos,3
+Eriptychius,3163067,22285130,3163067,Eriptychius,genus,Arctos,4
+Eriptychius,3163067,22285132,3163067,valid,taxon_status,Arctos,
+Eriptychius,3163067,22285133,3163067,UCMP,source_authority,Arctos,
+Eriptychius,3163067,22285134,3163067,ICZN,nomenclatural_code,Arctos,
+Eriptychius,3163067,403892856,3163067,nomenclatural_code updated from unknown based on GlobalNames classification data,remark,Arctos,
+Eriptychius,3163067,513021886,3163067,<i>Eriptychius</i>,display_name,Arctos,
+Eriptychius,3163067,513021887,3163067,Eriptychius,scientific_name,Arctos,
+Ornithischia,3163744,1685841,3163744,Animalia,kingdom,Arctos,1
+Ornithischia,3163744,1685842,3163744,Chordata,phylum,Arctos,2
+Ornithischia,3163744,1685843,3163744,Reptilia,class,Arctos,3
+Ornithischia,3163744,1685844,3163744,Ornithischia,order,Arctos,4
+Ornithischia,3163744,1685846,3163744,valid,taxon_status,Arctos,
+Ornithischia,3163744,1685847,3163744,UCMP,source_authority,Arctos,
+Ornithischia,3163744,1685848,3163744,ICZN,nomenclatural_code,Arctos,
+Ornithischia,3163744,510279171,3163744,Ornithischia,display_name,Arctos,
+Ornithischia,3163744,510279172,3163744,Ornithischia,scientific_name,Arctos,
+Dissorophidae,3164442,22303327,3164442,Animalia,kingdom,Arctos,1
+Dissorophidae,3164442,22303328,3164442,Chordata,phylum,Arctos,2
+Dissorophidae,3164442,22303329,3164442,Amphibia,class,Arctos,3
+Dissorophidae,3164442,22303330,3164442,Temnospondyli,order,Arctos,4
+Dissorophidae,3164442,22303331,3164442,Dissorophidae,family,Arctos,5
+Dissorophidae,3164442,22303333,3164442,valid,taxon_status,Arctos,
+Dissorophidae,3164442,22303334,3164442,UCMP,source_authority,Arctos,
+Dissorophidae,3164442,22303335,3164442,ICZN,nomenclatural_code,Arctos,
+Dissorophidae,3164442,513000652,3164442,Dissorophidae,display_name,Arctos,
+Dissorophidae,3164442,513000653,3164442,Dissorophidae,scientific_name,Arctos,
+Ankylosauridae,3164935,1685983,3164935,Animalia,kingdom,Arctos,1
+Ankylosauridae,3164935,1685984,3164935,Chordata,phylum,Arctos,2
+Ankylosauridae,3164935,1685985,3164935,Reptilia,class,Arctos,3
+Ankylosauridae,3164935,1685986,3164935,Ornithischia,order,Arctos,4
+Ankylosauridae,3164935,1685987,3164935,Ankylosauridae,family,Arctos,5
+Ankylosauridae,3164935,1685989,3164935,valid,taxon_status,Arctos,
+Ankylosauridae,3164935,1685990,3164935,UCMP,source_authority,Arctos,
+Ankylosauridae,3164935,1685991,3164935,ICZN,nomenclatural_code,Arctos,
+Ankylosauridae,3164935,510284579,3164935,Ankylosauridae,display_name,Arctos,
+Ankylosauridae,3164935,510284580,3164935,Ankylosauridae,scientific_name,Arctos,
+Deinonychosauria,3165268,22317666,3165268,Animalia,kingdom,Arctos,1
+Deinonychosauria,3165268,22317667,3165268,Chordata,phylum,Arctos,2
+Deinonychosauria,3165268,22317668,3165268,Reptilia,class,Arctos,3
+Deinonychosauria,3165268,22317669,3165268,Saurischia,order,Arctos,4
+Deinonychosauria,3165268,22317670,3165268,Deinonychosauria,family,Arctos,5
+Deinonychosauria,3165268,22317672,3165268,valid,taxon_status,Arctos,
+Deinonychosauria,3165268,22317673,3165268,UCMP,source_authority,Arctos,
+Deinonychosauria,3165268,22317674,3165268,ICZN,nomenclatural_code,Arctos,
+Deinonychosauria,3165268,513005208,3165268,Deinonychosauria,display_name,Arctos,
+Deinonychosauria,3165268,513005209,3165268,Deinonychosauria,scientific_name,Arctos,
+Hyracodon nebrascensis,3170032,22394152,3170032,Animalia,kingdom,Arctos,1
+Hyracodon nebrascensis,3170032,22394153,3170032,Chordata,phylum,Arctos,2
+Hyracodon nebrascensis,3170032,22394154,3170032,Mammalia,class,Arctos,3
+Hyracodon nebrascensis,3170032,22394155,3170032,Perissodactyla,order,Arctos,4
+Hyracodon nebrascensis,3170032,22394156,3170032,Hyracodontidae,family,Arctos,5
+Hyracodon nebrascensis,3170032,22394157,3170032,Hyracodon,genus,Arctos,6
+Hyracodon nebrascensis,3170032,22394158,3170032,Hyracodon nebrascensis,species,Arctos,7
+Hyracodon nebrascensis,3170032,22394160,3170032,valid,taxon_status,Arctos,
+Hyracodon nebrascensis,3170032,22394161,3170032,UCMP,source_authority,Arctos,
+Hyracodon nebrascensis,3170032,22394162,3170032,ICZN,nomenclatural_code,Arctos,
+Hyracodon nebrascensis,3170032,513129986,3170032,<i>Hyracodon nebrascensis</i>,display_name,Arctos,
+Hyracodon nebrascensis,3170032,513129987,3170032,Hyracodon nebrascensis,scientific_name,Arctos,
+Chelichnus,3170049,22394233,3170049,Chordata,phylum,Arctos,1
+Chelichnus,3170049,22394234,3170049,Ichnites,class,Arctos,2
+Chelichnus,3170049,22394235,3170049,Ichnites,order,Arctos,3
+Chelichnus,3170049,22394236,3170049,Chelichnus,genus,Arctos,4
+Chelichnus,3170049,22394238,3170049,valid,taxon_status,Arctos,
+Chelichnus,3170049,22394239,3170049,UCMP,source_authority,Arctos,
+Chelichnus,3170049,22394240,3170049,ICZN,nomenclatural_code,Arctos,
+Chelichnus,3170049,403892879,3170049,nomenclatural_code updated from unknown based on GlobalNames classification data,remark,Arctos,
+Chelichnus,3170049,920556863,3170049,Animalia,kingdom,Arctos,0
+Chelichnus,3170049,920590839,3170049,Chelichnus,scientific_name,Arctos,
+Chelichnus,3170049,920590840,3170049,<i>Chelichnus</i>,display_name,Arctos,
+Ichnites,3170050,1686309,3170050,Chordata,phylum,Arctos,1
+Ichnites,3170050,1686310,3170050,Ichnites,class,Arctos,2
+Ichnites,3170050,1686311,3170050,Ichnites,order,Arctos,3
+Ichnites,3170050,1686313,3170050,valid,taxon_status,Arctos,
+Ichnites,3170050,1686314,3170050,UCMP,source_authority,Arctos,
+Ichnites,3170050,1686315,3170050,ICZN,nomenclatural_code,Arctos,
+Ichnites,3170050,920531751,3170050,Animalia,kingdom,Arctos,0
+Ichnites,3170050,920545965,3170050,Ichnites,scientific_name,Arctos,
+Ichnites,3170050,920545966,3170050,Ichnites,display_name,Arctos,
+Captorhinida,3170619,22398985,3170619,Animalia,kingdom,Arctos,1
+Captorhinida,3170619,22398986,3170619,Chordata,phylum,Arctos,2
+Captorhinida,3170619,22398987,3170619,Amphibia,class,Arctos,3
+Captorhinida,3170619,22398988,3170619,Captorhinida,order,Arctos,4
+Captorhinida,3170619,22398990,3170619,valid,taxon_status,Arctos,
+Captorhinida,3170619,22398991,3170619,UCMP,source_authority,Arctos,
+Captorhinida,3170619,22398992,3170619,ICZN,nomenclatural_code,Arctos,
+Captorhinida,3170619,513067930,3170619,Captorhinida,display_name,Arctos,
+Captorhinida,3170619,513067931,3170619,Captorhinida,scientific_name,Arctos,
+Tyrannosauridae,3171172,1686325,3171172,Animalia,kingdom,Arctos,1
+Tyrannosauridae,3171172,1686326,3171172,Chordata,phylum,Arctos,2
+Tyrannosauridae,3171172,1686327,3171172,Reptilia,class,Arctos,3
+Tyrannosauridae,3171172,1686328,3171172,Saurischia,order,Arctos,4
+Tyrannosauridae,3171172,1686329,3171172,Tyrannosauridae,family,Arctos,5
+Tyrannosauridae,3171172,1686331,3171172,valid,taxon_status,Arctos,
+Tyrannosauridae,3171172,1686332,3171172,UCMP,source_authority,Arctos,
+Tyrannosauridae,3171172,1686333,3171172,ICZN,nomenclatural_code,Arctos,
+Tyrannosauridae,3171172,510234207,3171172,Tyrannosauridae,display_name,Arctos,
+Tyrannosauridae,3171172,510234208,3171172,Tyrannosauridae,scientific_name,Arctos,
+Microsauria,3171469,22412133,3171469,Animalia,kingdom,Arctos,1
+Microsauria,3171469,22412134,3171469,Chordata,phylum,Arctos,2
+Microsauria,3171469,22412135,3171469,Amphibia,class,Arctos,3
+Microsauria,3171469,22412136,3171469,Microsauria,order,Arctos,4
+Microsauria,3171469,22412138,3171469,valid,taxon_status,Arctos,
+Microsauria,3171469,22412139,3171469,UCMP,source_authority,Arctos,
+Microsauria,3171469,22412140,3171469,ICZN,nomenclatural_code,Arctos,
+Microsauria,3171469,513077212,3171469,Microsauria,display_name,Arctos,
+Microsauria,3171469,513077213,3171469,Microsauria,scientific_name,Arctos,
+Insecta,3172933,396541391,3172933,Linnaeus 1758,author_text,Arctos,
+Insecta,3172933,396541393,3172933,ICZN,nomenclatural_code,Arctos,
+Insecta,3172933,396541394,3172933,Animalia,kingdom,Arctos,1
+Insecta,3172933,396541395,3172933,Protostomia,infrakingdom,Arctos,2
+Insecta,3172933,396541396,3172933,Ecdysozoa,superphylum,Arctos,3
+Insecta,3172933,396541397,3172933,Arthropoda,phylum,Arctos,4
+Insecta,3172933,396541398,3172933,Hexapoda,subphylum,Arctos,5
+Insecta,3172933,396541399,3172933,Insecta,class,Arctos,6
+Insecta,3172933,514476304,3172933,Insecta,display_name,Arctos,
+Insecta,3172933,514476305,3172933,Insecta,scientific_name,Arctos,
+Arthropoda,3174363,396472061,3174363,ICZN,nomenclatural_code,Arctos,
+Arthropoda,3174363,396472062,3174363,Animalia,kingdom,Arctos,1
+Arthropoda,3174363,396472063,3174363,Protostomia,infrakingdom,Arctos,2
+Arthropoda,3174363,396472064,3174363,Ecdysozoa,superphylum,Arctos,3
+Arthropoda,3174363,396472065,3174363,Arthropoda,phylum,Arctos,4
+Arthropoda,3174363,509958799,3174363,Arthropoda,display_name,Arctos,
+Arthropoda,3174363,509958800,3174363,Arthropoda,scientific_name,Arctos,
+Bivalvia,3174403,396481907,3174403,"Linnaeus, 1758",author_text,Arctos,
+Bivalvia,3174403,396481909,3174403,ICZN,nomenclatural_code,Arctos,
+Bivalvia,3174403,396481910,3174403,Animalia,kingdom,Arctos,1
+Bivalvia,3174403,396481911,3174403,Protostomia,infrakingdom,Arctos,2
+Bivalvia,3174403,396481912,3174403,Lophozoa,superphylum,Arctos,3
+Bivalvia,3174403,396481913,3174403,Mollusca,phylum,Arctos,4
+Bivalvia,3174403,396481914,3174403,Bivalvia,class,Arctos,5
+Bivalvia,3174403,509958779,3174403,Bivalvia,display_name,Arctos,
+Bivalvia,3174403,509958780,3174403,Bivalvia,scientific_name,Arctos,
+Helminthopsis abeli,3174955,22453399,3174955,Ichnofossil,kingdom,Arctos,1
+Helminthopsis abeli,3174955,22453400,3174955,Helminthopsis,genus,Arctos,2
+Helminthopsis abeli,3174955,22453401,3174955,Helminthopsis abeli,species,Arctos,3
+Helminthopsis abeli,3174955,22453403,3174955,valid,taxon_status,Arctos,
+Helminthopsis abeli,3174955,22453404,3174955,UCMP,source_authority,Arctos,
+Helminthopsis abeli,3174955,22453405,3174955,Ksiazkiewicz 1977,author_text,Arctos,
+Helminthopsis abeli,3174955,22453406,3174955,noncompliant,nomenclatural_code,Arctos,
+Helminthopsis abeli,3174955,513077312,3174955,<i>Helminthopsis abeli</i> Ksiazkiewicz 1977,display_name,Arctos,
+Helminthopsis abeli,3174955,513077313,3174955,Helminthopsis abeli,scientific_name,Arctos,
+Palaeophycus tubularis,3181607,22563107,3181607,Ichnofossil,kingdom,Arctos,1
+Palaeophycus tubularis,3181607,22563108,3181607,Palaeophycus,genus,Arctos,2
+Palaeophycus tubularis,3181607,22563109,3181607,Palaeophycus tubularis,species,Arctos,3
+Palaeophycus tubularis,3181607,22563111,3181607,valid,taxon_status,Arctos,
+Palaeophycus tubularis,3181607,22563112,3181607,UCMP,source_authority,Arctos,
+Palaeophycus tubularis,3181607,22563113,3181607,Hall 1847,author_text,Arctos,
+Palaeophycus tubularis,3181607,22563114,3181607,noncompliant,nomenclatural_code,Arctos,
+Palaeophycus tubularis,3181607,513120124,3181607,<i>Palaeophycus tubularis</i> Hall 1847,display_name,Arctos,
+Palaeophycus tubularis,3181607,513120125,3181607,Palaeophycus tubularis,scientific_name,Arctos,
+Actinopterygii,3184345,840021160,3184345,ICZN,nomenclatural_code,Arctos,
+Actinopterygii,3184345,840021161,3184345,UCMP,source_authority,Arctos,
+Actinopterygii,3184345,840021162,3184345,valid,taxon_status,Arctos,
+Actinopterygii,3184345,840021163,3184345,Animalia,kingdom,Arctos,1
+Actinopterygii,3184345,840021164,3184345,Chordata,phylum,Arctos,2
+Actinopterygii,3184345,840021165,3184345,Actinopterygii,class,Arctos,3
+Actinopterygii,3184345,840021166,3184345,Actinopterygii,display_name,Arctos,
+Actinopterygii,3184345,840021167,3184345,Actinopterygii,scientific_name,Arctos,
+Palaechthon woodi,3184579,22609018,3184579,Animalia,kingdom,Arctos,1
+Palaechthon woodi,3184579,22609019,3184579,Chordata,phylum,Arctos,2
+Palaechthon woodi,3184579,22609020,3184579,Mammalia,class,Arctos,3
+Palaechthon woodi,3184579,22609021,3184579,Primates,order,Arctos,4
+Palaechthon woodi,3184579,22609022,3184579,Paromomyidae,family,Arctos,5
+Palaechthon woodi,3184579,22609023,3184579,Palaechthon,genus,Arctos,6
+Palaechthon woodi,3184579,22609024,3184579,Palaechthon woodi,species,Arctos,7
+Palaechthon woodi,3184579,22609026,3184579,valid,taxon_status,Arctos,
+Palaechthon woodi,3184579,22609027,3184579,UCMP,source_authority,Arctos,
+Palaechthon woodi,3184579,22609028,3184579,ICZN,nomenclatural_code,Arctos,
+Palaechthon woodi,3184579,513077416,3184579,<i>Palaechthon woodi</i>,display_name,Arctos,
+Palaechthon woodi,3184579,513077417,3184579,Palaechthon woodi,scientific_name,Arctos,
+Theropoda,3184618,1686890,3184618,Animalia,kingdom,Arctos,1
+Theropoda,3184618,1686891,3184618,Chordata,phylum,Arctos,2
+Theropoda,3184618,1686892,3184618,Reptilia,class,Arctos,3
+Theropoda,3184618,1686893,3184618,Saurischia,order,Arctos,4
+Theropoda,3184618,1686894,3184618,Theropoda,suborder,Arctos,5
+Theropoda,3184618,1686896,3184618,valid,taxon_status,Arctos,
+Theropoda,3184618,1686897,3184618,UCMP,source_authority,Arctos,
+Theropoda,3184618,1686898,3184618,ICZN,nomenclatural_code,Arctos,
+Theropoda,3184618,510273363,3184618,Theropoda,display_name,Arctos,
+Theropoda,3184618,510273364,3184618,Theropoda,scientific_name,Arctos,
+Therapoda,3184841,1273237774,3184841,ICZN,nomenclatural_code,Arctos,
+Therapoda,3184841,1273237775,3184841,UCMP,source_authority,Arctos,
+Therapoda,3184841,1273237776,3184841,invalid,taxon_status,Arctos,
+Therapoda,3184841,1273237777,3184841,misspelling of Theropoda,remark,Arctos,
+Therapoda,3184841,1273237778,3184841,Animalia,kingdom,Arctos,1
+Therapoda,3184841,1273237779,3184841,Chordata,phylum,Arctos,2
+Therapoda,3184841,1273237780,3184841,Reptilia,class,Arctos,3
+Therapoda,3184841,1273237781,3184841,Therapoda,order,Arctos,4
+Therapoda,3184841,1273237794,3184841,Therapoda,scientific_name,Arctos,
+Tetrapoda,3184852,1686926,3184852,Tetrapoda,order,Arctos,1
+Tetrapoda,3184852,1686928,3184852,valid,taxon_status,Arctos,
+Tetrapoda,3184852,1686929,3184852,UCMP,source_authority,Arctos,
+Tetrapoda,3184852,1686930,3184852,ICZN,nomenclatural_code,Arctos,
+Tetrapoda,3184852,404661117,3184852,nomenclatural_code updated from unknown based on ITIS classification data,remark,Arctos,
+Tetrapoda,3184852,510281049,3184852,Tetrapoda,display_name,Arctos,
+Tetrapoda,3184852,510281050,3184852,Tetrapoda,scientific_name,Arctos,
+Vertebrata,3184866,1686932,3184866,Vertebrata,class,Arctos,1
+Vertebrata,3184866,1686934,3184866,valid,taxon_status,Arctos,
+Vertebrata,3184866,1686935,3184866,UCMP,source_authority,Arctos,
+Vertebrata,3184866,1686936,3184866,ICZN,nomenclatural_code,Arctos,
+Vertebrata,3184866,510277367,3184866,Vertebrata,display_name,Arctos,
+Vertebrata,3184866,510277368,3184866,Vertebrata,scientific_name,Arctos,
+Vertebrata,3184866,1221871084,670143C4-F2A0-4281-BBEF923F925F2B3E,146419,aphiaid,Arctos,
+Vertebrata,3184866,1221871085,670143C4-F2A0-4281-BBEF923F925F2B3E,ICZN,nomenclatural_code,Arctos,
+Vertebrata,3184866,1221871086,670143C4-F2A0-4281-BBEF923F925F2B3E,WoRMS (2018). Vertebrata. Accessed at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=146419 on 2018-12-18,source_authority,Arctos,
+Vertebrata,3184866,1221871087,670143C4-F2A0-4281-BBEF923F925F2B3E,valid,taxon_status,Arctos,
+Vertebrata,3184866,1221871088,670143C4-F2A0-4281-BBEF923F925F2B3E,Animalia,kingdom,Arctos,1
+Vertebrata,3184866,1221871089,670143C4-F2A0-4281-BBEF923F925F2B3E,Chordata,phylum,Arctos,2
+Vertebrata,3184866,1221871090,670143C4-F2A0-4281-BBEF923F925F2B3E,Vertebrata,subphylum,Arctos,3
+Vertebrata,3184866,1226189538,670143C4-F2A0-4281-BBEF923F925F2B3E,Vertebrata,scientific_name,Arctos,
+Ornithischian,3184868,1686938,3184868,Animalia,kingdom,Arctos,1
+Ornithischian,3184868,1686939,3184868,Chordata,phylum,Arctos,2
+Ornithischian,3184868,1686940,3184868,Reptilia,class,Arctos,3
+Ornithischian,3184868,1686941,3184868,Ornithischian,order,Arctos,4
+Ornithischian,3184868,1686943,3184868,valid,taxon_status,Arctos,
+Ornithischian,3184868,1686944,3184868,UCMP,source_authority,Arctos,
+Ornithischian,3184868,1686945,3184868,ICZN,nomenclatural_code,Arctos,
+Ornithischian,3184868,510276025,3184868,Ornithischian,display_name,Arctos,
+Ornithischian,3184868,510276026,3184868,Ornithischian,scientific_name,Arctos,
+Crustacea,3185989,396464824,3185989,Thuret,author_text,Arctos,
+Crustacea,3185989,396464841,3185989,ICZN,nomenclatural_code,Arctos,
+Crustacea,3185989,396464843,3185989,Ahyong et al. 2011 Zootaxa 3148: 165-191,source_authority,Arctos,
+Crustacea,3185989,396464846,3185989,Animalia,kingdom,Arctos,1
+Crustacea,3185989,396464848,3185989,Protostomia,infrakingdom,Arctos,2
+Crustacea,3185989,396464850,3185989,Ecdysozoa,superphylum,Arctos,3
+Crustacea,3185989,396464852,3185989,Arthropoda,phylum,Arctos,4
+Crustacea,3185989,396464854,3185989,Crustacea,subphylum,Arctos,5
+Crustacea,3185989,514493854,3185989,Crustacea,display_name,Arctos,
+Crustacea,3185989,514493855,3185989,Crustacea,scientific_name,Arctos,
+Brachiopoda,3186840,1686986,3186840,Animalia,kingdom,Arctos,1
+Brachiopoda,3186840,1686987,3186840,Brachiopoda,phylum,Arctos,2
+Brachiopoda,3186840,1686989,3186840,valid,taxon_status,Arctos,
+Brachiopoda,3186840,1686990,3186840,UCMP,source_authority,Arctos,
+Brachiopoda,3186840,1686991,3186840,ICZN,nomenclatural_code,Arctos,
+Brachiopoda,3186840,510277369,3186840,Brachiopoda,display_name,Arctos,
+Brachiopoda,3186840,510277370,3186840,Brachiopoda,scientific_name,Arctos,
+Chordata,3187081,1687000,3187081,Animalia,kingdom,Arctos,1
+Chordata,3187081,1687001,3187081,Chordata,phylum,Arctos,2
+Chordata,3187081,1687003,3187081,valid,taxon_status,Arctos,
+Chordata,3187081,1687004,3187081,UCMP,source_authority,Arctos,
+Chordata,3187081,1687005,3187081,ICZN,nomenclatural_code,Arctos,
+Chordata,3187081,510274755,3187081,Chordata,display_name,Arctos,
+Chordata,3187081,510274756,3187081,Chordata,scientific_name,Arctos,
+Temnospondyli,3190275,22672411,3190275,Animalia,kingdom,Arctos,1
+Temnospondyli,3190275,22672412,3190275,Chordata,phylum,Arctos,2
+Temnospondyli,3190275,22672413,3190275,Amphibia,class,Arctos,3
+Temnospondyli,3190275,22672414,3190275,Temnospondyli,order,Arctos,4
+Temnospondyli,3190275,22672416,3190275,valid,taxon_status,Arctos,
+Temnospondyli,3190275,22672417,3190275,UCMP,source_authority,Arctos,
+Temnospondyli,3190275,22672418,3190275,ICZN,nomenclatural_code,Arctos,
+Temnospondyli,3190275,513123524,3190275,Temnospondyli,display_name,Arctos,
+Temnospondyli,3190275,513123525,3190275,Temnospondyli,scientific_name,Arctos,
+Plantae,3190602,1211805580,33756D87-B82A-4644-99F1D68E38768A88,ICBN,nomenclatural_code,Arctos,
+Plantae,3190602,1211805581,33756D87-B82A-4644-99F1D68E38768A88,Arctos Plants,source_authority,Arctos,
+Plantae,3190602,1211805582,33756D87-B82A-4644-99F1D68E38768A88,valid,taxon_status,Arctos,
+Plantae,3190602,1211805583,33756D87-B82A-4644-99F1D68E38768A88,Plantae,kingdom,Arctos,1
+Plantae,3190602,1226174046,33756D87-B82A-4644-99F1D68E38768A88,Plantae,scientific_name,Arctos,
+Dinosauria,10024288,1273437134,10024288,ICZN,nomenclatural_code,Arctos,
+Dinosauria,10024288,1273437135,10024288,University of Alaska Museum,source_authority,Arctos,
+Dinosauria,10024288,1273437136,10024288,valid,taxon_status,Arctos,
+Dinosauria,10024288,1273437137,10024288,Animalia,kingdom,Arctos,1
+Dinosauria,10024288,1273437138,10024288,Chordata,phylum,Arctos,2
+Dinosauria,10024288,1273437139,10024288,Reptilia,class,Arctos,3
+Dinosauria,10024288,1273437140,10024288,Dinosauria,,Arctos,4
+Dinosauria,10024288,1273437154,10024288,Dinosauria,scientific_name,Arctos,
+Trilobita,10024335,1748192,10024335,Trilobita,class,Arctos,1
+Trilobita,10024335,1748194,10024335,valid,taxon_status,Arctos,
+Trilobita,10024335,1748195,10024335,UCMP,source_authority,Arctos,
+Trilobita,10024335,1748196,10024335,ICZN,nomenclatural_code,Arctos,
+Trilobita,10024335,510231941,10024335,Trilobita,display_name,Arctos,
+Trilobita,10024335,510231942,10024335,Trilobita,scientific_name,Arctos,
+Trilobita,10024335,1314714202,10024335,Trilobita,scientific_name,Arctos,
+Trilobita,10024335,1314714203,10024335,Trilobita,display_name,Arctos,
+Nematoda,10925293,396578552,10925293,Rudolphi 1808,author_text,Arctos,
+Nematoda,10925293,396578554,10925293,ICZN,nomenclatural_code,Arctos,
+Nematoda,10925293,396578555,10925293,Animalia,kingdom,Arctos,1
+Nematoda,10925293,396578556,10925293,Protostomia,infrakingdom,Arctos,2
+Nematoda,10925293,396578557,10925293,Ecdysozoa,superphylum,Arctos,3
+Nematoda,10925293,396578558,10925293,Nematoda,phylum,Arctos,4
+Nematoda,10925293,514487012,10925293,Nematoda,display_name,Arctos,
+Nematoda,10925293,514487013,10925293,Nematoda,scientific_name,Arctos,
+Odonata,10925812,396486769,10925812,"Fabricius, 1793",author_text,Arctos,
+Odonata,10925812,396486771,10925812,ICZN,nomenclatural_code,Arctos,
+Odonata,10925812,396486772,10925812,Animalia,kingdom,Arctos,1
+Odonata,10925812,396486773,10925812,Protostomia,infrakingdom,Arctos,2
+Odonata,10925812,396486774,10925812,Ecdysozoa,superphylum,Arctos,3
+Odonata,10925812,396486775,10925812,Arthropoda,phylum,Arctos,4
+Odonata,10925812,396486776,10925812,Hexapoda,subphylum,Arctos,5
+Odonata,10925812,396486777,10925812,Insecta,class,Arctos,6
+Odonata,10925812,396486778,10925812,Pterygota,subclass,Arctos,7
+Odonata,10925812,396486779,10925812,Palaeoptera,superorder,Arctos,8
+Odonata,10925812,396486780,10925812,Odonata,order,Arctos,9
+Odonata,10925812,514485246,10925812,Odonata,display_name,Arctos,
+Odonata,10925812,514485247,10925812,Odonata,scientific_name,Arctos,
+Scyphozoa,10926668,40297229,10926668,Animalia,kingdom,Arctos,1
+Scyphozoa,10926668,40297230,10926668,Cnidaria,phylum,Arctos,2
+Scyphozoa,10926668,40297231,10926668,Scyphozoa,class,Arctos,3
+Scyphozoa,10926668,40297233,10926668,valid,taxon_status,Arctos,
+Scyphozoa,10926668,40297234,10926668,CoL 2011 checklist,source_authority,Arctos,
+Scyphozoa,10926668,40297235,10926668,ICZN,nomenclatural_code,Arctos,
+Scyphozoa,10926668,514328651,10926668,Scyphozoa,display_name,Arctos,
+Scyphozoa,10926668,514328652,10926668,Scyphozoa,scientific_name,Arctos,
+Annelida,10927769,396471870,10927769,Lamarck,author_text,Arctos,
+Annelida,10927769,396471872,10927769,ICZN,nomenclatural_code,Arctos,
+Annelida,10927769,396471873,10927769,Animalia,kingdom,Arctos,1
+Annelida,10927769,396471874,10927769,Protostomia,infrakingdom,Arctos,2
+Annelida,10927769,396471875,10927769,Lophozoa,superphylum,Arctos,3
+Annelida,10927769,396471876,10927769,Annelida,phylum,Arctos,4
+Annelida,10927769,509959029,10927769,Annelida,display_name,Arctos,
+Annelida,10927769,509959030,10927769,Annelida,scientific_name,Arctos,
+Animalia,10928629,840041651,10928629,(Linnaeus 1758),author_text,Arctos,
+Animalia,10928629,840041652,10928629,ICZN,nomenclatural_code,Arctos,
+Animalia,10928629,840041653,10928629,valid,taxon_status,Arctos,
+Animalia,10928629,840041654,10928629,Animalia,kingdom,Arctos,1
+Animalia,10928629,840041655,10928629,Animalia,display_name,Arctos,
+Animalia,10928629,840041656,10928629,Animalia,scientific_name,Arctos,
+Liopistha,10960308,621678629,349B1EDE-B63A-E96E-474378A41D00F3AF,"Meek, 1864",author_text,Arctos,
+Liopistha,10960308,621678630,349B1EDE-B63A-E96E-474378A41D00F3AF,ICZN,nomenclatural_code,Arctos,
+Liopistha,10960308,621678631,349B1EDE-B63A-E96E-474378A41D00F3AF,valid,taxon_status,Arctos,
+Liopistha,10960308,621678633,349B1EDE-B63A-E96E-474378A41D00F3AF,WoRMS,source_authority,Arctos,
+Liopistha,10960308,621678634,349B1EDE-B63A-E96E-474378A41D00F3AF,Animalia,kingdom,Arctos,1
+Liopistha,10960308,621678635,349B1EDE-B63A-E96E-474378A41D00F3AF,Mollusca,phylum,Arctos,2
+Liopistha,10960308,621678636,349B1EDE-B63A-E96E-474378A41D00F3AF,Bivalvia,class,Arctos,3
+Liopistha,10960308,621678637,349B1EDE-B63A-E96E-474378A41D00F3AF,Heterodonta,subclass,Arctos,4
+Liopistha,10960308,621678638,349B1EDE-B63A-E96E-474378A41D00F3AF,Euheterodonta,infraclass,Arctos,5
+Liopistha,10960308,621678639,349B1EDE-B63A-E96E-474378A41D00F3AF,Anomalodesmata,superorder,Arctos,6
+Liopistha,10960308,621678640,349B1EDE-B63A-E96E-474378A41D00F3AF,Poromyidae,family,Arctos,7
+Liopistha,10960308,621678641,349B1EDE-B63A-E96E-474378A41D00F3AF,Liopistha,genus,Arctos,8
+Liopistha,10960308,621679436,349B1EDE-B63A-E96E-474378A41D00F3AF,"<i>Liopistha</i> Meek, 1864",display_name,Arctos,
+Liopistha,10960308,621679437,349B1EDE-B63A-E96E-474378A41D00F3AF,Liopistha,scientific_name,Arctos,
+Unionida,10960782,621677975,3499353F-C70C-7F59-D40C6664917A8BD2,"Stoliczka, 1871",author_text,Arctos,
+Unionida,10960782,621677976,3499353F-C70C-7F59-D40C6664917A8BD2,ICZN,nomenclatural_code,Arctos,
+Unionida,10960782,621677977,3499353F-C70C-7F59-D40C6664917A8BD2,valid,taxon_status,Arctos,
+Unionida,10960782,621677979,3499353F-C70C-7F59-D40C6664917A8BD2,WoRMS,source_authority,Arctos,
+Unionida,10960782,621677980,3499353F-C70C-7F59-D40C6664917A8BD2,Animalia,kingdom,Arctos,1
+Unionida,10960782,621677981,3499353F-C70C-7F59-D40C6664917A8BD2,Mollusca,phylum,Arctos,2
+Unionida,10960782,621677982,3499353F-C70C-7F59-D40C6664917A8BD2,Bivalvia,class,Arctos,3
+Unionida,10960782,621677983,3499353F-C70C-7F59-D40C6664917A8BD2,Palaeoheterodonta,subclass,Arctos,4
+Unionida,10960782,621677984,3499353F-C70C-7F59-D40C6664917A8BD2,Unionida,order,Arctos,5
+Unionida,10960782,621679896,3499353F-C70C-7F59-D40C6664917A8BD2,Unionida,display_name,Arctos,
+Unionida,10960782,621679897,3499353F-C70C-7F59-D40C6664917A8BD2,Unionida,scientific_name,Arctos,
+Pinna petrina,10965763,1054477969,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,ICZN,nomenclatural_code,Arctos,
+Pinna petrina,10965763,1054477970,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,White,author_text,Arctos,
+Pinna petrina,10965763,1054477971,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,"GBIF through Arctos, dperriguey, 2019-09-04",source_authority,Arctos,
+Pinna petrina,10965763,1054477972,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Animalia,kingdom,Arctos,1
+Pinna petrina,10965763,1054477973,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Mollusca,phylum,Arctos,2
+Pinna petrina,10965763,1054477974,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Bivalvia,class,Arctos,3
+Pinna petrina,10965763,1054477975,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Pterioida,order,Arctos,4
+Pinna petrina,10965763,1054477976,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Pinnidae,family,Arctos,5
+Pinna petrina,10965763,1054477977,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Pinna,genus,Arctos,6
+Pinna petrina,10965763,1054477978,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Pinna petrina,species,Arctos,7
+Pinna petrina,10965763,1054477979,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,Pinna petrina,scientific_name,Arctos,
+Pinna petrina,10965763,1054477980,AD83C7D4-BA02-C477-AC6D04F3A08C47B9,<i>Pinna petrina</i> White,display_name,Arctos,
+Clypeaster florealis,10965864,699842508,153CBA80-CB25-8237-CA20F8A25E481365,Animalia,kingdom,Arctos,1
+Clypeaster florealis,10965864,699842509,153CBA80-CB25-8237-CA20F8A25E481365,Metazoa,subkingdom,Arctos,2
+Clypeaster florealis,10965864,699842510,153CBA80-CB25-8237-CA20F8A25E481365,Echinodermata,phylum,Arctos,3
+Clypeaster florealis,10965864,699842511,153CBA80-CB25-8237-CA20F8A25E481365,Echinozoa,subphylum,Arctos,4
+Clypeaster florealis,10965864,699842512,153CBA80-CB25-8237-CA20F8A25E481365,Echinoidea,class,Arctos,5
+Clypeaster florealis,10965864,699842513,153CBA80-CB25-8237-CA20F8A25E481365,Euechinoidea,subclass,Arctos,6
+Clypeaster florealis,10965864,699842514,153CBA80-CB25-8237-CA20F8A25E481365,Acroechinoidea,infraclass,Arctos,7
+Clypeaster florealis,10965864,699842515,153CBA80-CB25-8237-CA20F8A25E481365,Clypeasteroida,order,Arctos,8
+Clypeaster florealis,10965864,699842516,153CBA80-CB25-8237-CA20F8A25E481365,Clypeasterina,suborder,Arctos,9
+Clypeaster florealis,10965864,699842517,153CBA80-CB25-8237-CA20F8A25E481365,Clypeasteridae,family,Arctos,10
+Clypeaster florealis,10965864,699842518,153CBA80-CB25-8237-CA20F8A25E481365,Clypeaster,genus,Arctos,11
+Clypeaster florealis,10965864,699842519,153CBA80-CB25-8237-CA20F8A25E481365,Clypeaster florealis,species,Arctos,12
+Clypeaster florealis,10965864,699842541,153CBA80-CB25-8237-CA20F8A25E481365,<i>Clypeaster florealis</i>,display_name,Arctos,
+Clypeaster florealis,10965864,699842542,153CBA80-CB25-8237-CA20F8A25E481365,Clypeaster florealis,scientific_name,Arctos,
+Mytiloides mytiloides,10965913,783182029,A485E520-A4F9-B470-52271B73D913C45B,ICZN,nomenclatural_code,Arctos,
+Mytiloides mytiloides,10965913,783182030,A485E520-A4F9-B470-52271B73D913C45B,Mantell 1822,author_text,Arctos,
+Mytiloides mytiloides,10965913,783182031,A485E520-A4F9-B470-52271B73D913C45B,Animalia,kingdom,Arctos,1
+Mytiloides mytiloides,10965913,783182032,A485E520-A4F9-B470-52271B73D913C45B,Metazoa,subkingdom,Arctos,2
+Mytiloides mytiloides,10965913,783182033,A485E520-A4F9-B470-52271B73D913C45B,Mollusca,phylum,Arctos,3
+Mytiloides mytiloides,10965913,783182034,A485E520-A4F9-B470-52271B73D913C45B,Bivalvia,class,Arctos,4
+Mytiloides mytiloides,10965913,783182035,A485E520-A4F9-B470-52271B73D913C45B,Autobranchia,subclass,Arctos,5
+Mytiloides mytiloides,10965913,783182036,A485E520-A4F9-B470-52271B73D913C45B,Pteriomorphia,infraclass,Arctos,6
+Mytiloides mytiloides,10965913,783182037,A485E520-A4F9-B470-52271B73D913C45B,Myalinida,order,Arctos,7
+Mytiloides mytiloides,10965913,783182038,A485E520-A4F9-B470-52271B73D913C45B,Inoceramoidea,superfamily,Arctos,8
+Mytiloides mytiloides,10965913,783182039,A485E520-A4F9-B470-52271B73D913C45B,Inoceramidae,family,Arctos,9
+Mytiloides mytiloides,10965913,783182040,A485E520-A4F9-B470-52271B73D913C45B,Mytiloides,genus,Arctos,10
+Mytiloides mytiloides,10965913,783182041,A485E520-A4F9-B470-52271B73D913C45B,Mytiloides mytiloides,species,Arctos,11
+Mytiloides mytiloides,10965913,783182042,A485E520-A4F9-B470-52271B73D913C45B,<i>Mytiloides mytiloides</i> Mantell 1822,display_name,Arctos,
+Mytiloides mytiloides,10965913,783182043,A485E520-A4F9-B470-52271B73D913C45B,Mytiloides mytiloides,scientific_name,Arctos,
+Prionocyclus macombi,10965919,706424617,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Animalia,kingdom,Arctos,1
+Prionocyclus macombi,10965919,706424618,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Metazoa,subkingdom,Arctos,2
+Prionocyclus macombi,10965919,706424619,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Mollusca,phylum,Arctos,3
+Prionocyclus macombi,10965919,706424620,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Cephalopoda,class,Arctos,4
+Prionocyclus macombi,10965919,706424621,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Ammonoidea,subclass,Arctos,5
+Prionocyclus macombi,10965919,706424622,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Ammonitida,order,Arctos,6
+Prionocyclus macombi,10965919,706424623,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Ammonitina,suborder,Arctos,7
+Prionocyclus macombi,10965919,706424624,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Acanthocerataceae,superfamily,Arctos,8
+Prionocyclus macombi,10965919,706424625,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Collignoniceratidae,family,Arctos,9
+Prionocyclus macombi,10965919,706424626,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Collignoniceratinae,subfamily,Arctos,10
+Prionocyclus macombi,10965919,706424627,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Prionocyclus,genus,Arctos,11
+Prionocyclus macombi,10965919,706424628,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Prionocyclus macombi,species,Arctos,12
+Prionocyclus macombi,10965919,706426523,AD687F27-05DE-EAAD-7A58302FC0E18FFB,<i>Prionocyclus macombi</i>,display_name,Arctos,
+Prionocyclus macombi,10965919,706426524,AD687F27-05DE-EAAD-7A58302FC0E18FFB,Prionocyclus macombi,scientific_name,Arctos,
+Periplomya elliptica,10966058,1154493559,BA302352-999B-CCD2-74D8C36B2805811E,ICZN,nomenclatural_code,Arctos,
+Periplomya elliptica,10966058,1154493560,BA302352-999B-CCD2-74D8C36B2805811E,(Gabb),author_text,Arctos,
+Periplomya elliptica,10966058,1154493561,BA302352-999B-CCD2-74D8C36B2805811E,"Higher classifications from PBDB through Arctos, species from Wade 1962 dperriguey, 2020-03-05",source_authority,Arctos,
+Periplomya elliptica,10966058,1154493562,BA302352-999B-CCD2-74D8C36B2805811E,Animalia,kingdom,Arctos,1
+Periplomya elliptica,10966058,1154493563,BA302352-999B-CCD2-74D8C36B2805811E,Metazoa,subkingdom,Arctos,2
+Periplomya elliptica,10966058,1154493564,BA302352-999B-CCD2-74D8C36B2805811E,Mollusca,phylum,Arctos,3
+Periplomya elliptica,10966058,1154493565,BA302352-999B-CCD2-74D8C36B2805811E,Bivalvia,class,Arctos,4
+Periplomya elliptica,10966058,1154493566,BA302352-999B-CCD2-74D8C36B2805811E,Autobranchia,subclass,Arctos,5
+Periplomya elliptica,10966058,1154493567,BA302352-999B-CCD2-74D8C36B2805811E,Heteroconchia,infraclass,Arctos,6
+Periplomya elliptica,10966058,1154493568,BA302352-999B-CCD2-74D8C36B2805811E,Pandorida,order,Arctos,7
+Periplomya elliptica,10966058,1154493569,BA302352-999B-CCD2-74D8C36B2805811E,Pandoroidea,superfamily,Arctos,8
+Periplomya elliptica,10966058,1154493570,BA302352-999B-CCD2-74D8C36B2805811E,Laternulidae,family,Arctos,9
+Periplomya elliptica,10966058,1154493571,BA302352-999B-CCD2-74D8C36B2805811E,Periplomya,genus,Arctos,10
+Periplomya elliptica,10966058,1154493572,BA302352-999B-CCD2-74D8C36B2805811E,Periplomya elliptica,species,Arctos,11
+Periplomya elliptica,10966058,1226396704,BA302352-999B-CCD2-74D8C36B2805811E,Periplomya elliptica,scientific_name,Arctos,
+Periplomya elliptica,10966058,1226396705,BA302352-999B-CCD2-74D8C36B2805811E,<i>Periplomya elliptica</i> (Gabb),display_name,Arctos,
+Cyprimeria cyprimeriformis,10966066,920031347,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,ICZN,nomenclatural_code,Arctos,
+Cyprimeria cyprimeriformis,10966066,920031348,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Stanton 1893,author_text,Arctos,
+Cyprimeria cyprimeriformis,10966066,920031349,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Kirkland 1996,source_authority,Arctos,
+Cyprimeria cyprimeriformis,10966066,920031350,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Animalia,kingdom,Arctos,1
+Cyprimeria cyprimeriformis,10966066,920031351,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Mollusca,phylum,Arctos,2
+Cyprimeria cyprimeriformis,10966066,920031352,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Bivalvia,class,Arctos,3
+Cyprimeria cyprimeriformis,10966066,920031353,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Cycloconchidae,family,Arctos,4
+Cyprimeria cyprimeriformis,10966066,920031354,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Cyprimeria,genus,Arctos,5
+Cyprimeria cyprimeriformis,10966066,920031355,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Cyprimeria cyprimeriformis,species,Arctos,6
+Cyprimeria cyprimeriformis,10966066,920031356,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,Cyprimeria cyprimeriformis,scientific_name,Arctos,
+Cyprimeria cyprimeriformis,10966066,920031357,AD485B0C-99F5-20B9-E5A3CEAEF4CE26E4,<i>Cyprimeria cyprimeriformis</i> Stanton 1893,display_name,Arctos,
+Arecaceae,10967086,919778213,1153C7DE-9692-6EBE-068B8E1C3BA654CF,234449,aphiaid,Arctos,
+Arecaceae,10967086,919778214,1153C7DE-9692-6EBE-068B8E1C3BA654CF,ICBN,nomenclatural_code,Arctos,
+Arecaceae,10967086,919778215,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Dahdouh-Guebas F. (Ed.) (2018). World Mangroves database. Arecaceae. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=234449 on 2018-12-18,source_authority,Arctos,
+Arecaceae,10967086,919778216,1153C7DE-9692-6EBE-068B8E1C3BA654CF,valid,taxon_status,Arctos,
+Arecaceae,10967086,919778217,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Plantae,kingdom,Arctos,1
+Arecaceae,10967086,919778218,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Viridaeplantae,subkingdom,Arctos,2
+Arecaceae,10967086,919778219,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Streptophyta,infrakingdom,Arctos,3
+Arecaceae,10967086,919778220,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Tracheophyta,phylum,Arctos,4
+Arecaceae,10967086,919778221,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Spermatophytina,subdivision,Arctos,5
+Arecaceae,10967086,919778222,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Magnoliopsida,class,Arctos,6
+Arecaceae,10967086,919778223,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Lilianae,superorder,Arctos,7
+Arecaceae,10967086,919778224,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Arecales,order,Arctos,8
+Arecaceae,10967086,919778225,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Arecaceae,family,Arctos,9
+Arecaceae,10967086,919778238,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Arecaceae,scientific_name,Arctos,
+Arecaceae,10967086,919778239,1153C7DE-9692-6EBE-068B8E1C3BA654CF,Arecaceae,display_name,Arctos,
+Chondrites bollensis,10967096,1051023697,A25940FB-F5A2-708F-E9246F24FB3933B8,Zieten,author_text,Arctos,
+Chondrites bollensis,10967096,1051023698,A25940FB-F5A2-708F-E9246F24FB3933B8,ICZN,nomenclatural_code,Arctos,
+Chondrites bollensis,10967096,1051023699,A25940FB-F5A2-708F-E9246F24FB3933B8,"GBIF, 2019",source_authority,Arctos,
+Chondrites bollensis,10967096,1051023700,A25940FB-F5A2-708F-E9246F24FB3933B8,https://en.wikipedia.org/wiki/Chondrites_(genus),remark,Arctos,
+Chondrites bollensis,10967096,1051023701,A25940FB-F5A2-708F-E9246F24FB3933B8,Animalia,kingdom,Arctos,1
+Chondrites bollensis,10967096,1051023702,A25940FB-F5A2-708F-E9246F24FB3933B8,Chondrites,genus,Arctos,2
+Chondrites bollensis,10967096,1051023703,A25940FB-F5A2-708F-E9246F24FB3933B8,Chondrites bollensis,species,Arctos,3
+Chondrites bollensis,10967096,1051023704,A25940FB-F5A2-708F-E9246F24FB3933B8,Chondrites bollensis,scientific_name,Arctos,
+Chondrites bollensis,10967096,1051023705,A25940FB-F5A2-708F-E9246F24FB3933B8,<i>Chondrites bollensis</i> Zieten,display_name,Arctos,
+Tylostoma,10967333,839977796,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,ICZN,nomenclatural_code,Arctos,
+Tylostoma,10967333,839977797,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Animalia,kingdom,Arctos,1
+Tylostoma,10967333,839977798,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Mollusca,phylum,Arctos,2
+Tylostoma,10967333,839977799,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Gastropoda,class,Arctos,3
+Tylostoma,10967333,839977800,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Caenogastropoda,subclass,Arctos,4
+Tylostoma,10967333,839977801,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Capaniloidea,superfamily,Arctos,5
+Tylostoma,10967333,839977802,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Tylostomatidae,family,Arctos,6
+Tylostoma,10967333,839977803,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Tylostoma,genus,Arctos,7
+Tylostoma,10967333,839977912,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,<i>Tylostoma</i>,display_name,Arctos,
+Tylostoma,10967333,839977913,06E6A24E-B9A0-4A8C-5A8D4B1075FFAED5,Tylostoma,scientific_name,Arctos,
+Euspira cragini,10968090,920483359,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,ICZN,nomenclatural_code,Arctos,
+Euspira cragini,10968090,920483360,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Stanton,author_text,Arctos,
+Euspira cragini,10968090,920483361,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,"Genus from WoRMS, dperriguey, 2019-02-12; Species from Kues and Lucas 2001",source_authority,Arctos,
+Euspira cragini,10968090,920483362,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Animalia,kingdom,Arctos,1
+Euspira cragini,10968090,920483363,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Mollusca,phylum,Arctos,2
+Euspira cragini,10968090,920483364,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Gastropoda,class,Arctos,3
+Euspira cragini,10968090,920483365,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Caenogastropoda,subclass,Arctos,4
+Euspira cragini,10968090,920483366,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Littorinimorpha,order,Arctos,5
+Euspira cragini,10968090,920483367,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Naticoidea,superfamily,Arctos,6
+Euspira cragini,10968090,920483368,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Naticidae,family,Arctos,7
+Euspira cragini,10968090,920483369,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Polinicinae,subfamily,Arctos,8
+Euspira cragini,10968090,920483370,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Euspira,genus,Arctos,9
+Euspira cragini,10968090,920483371,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Euspira cragini,species,Arctos,10
+Euspira cragini,10968090,920483372,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,Euspira cragini,scientific_name,Arctos,
+Euspira cragini,10968090,920483373,E5BC9B72-B6B7-1397-9A2EAEF14F6BD5E3,<i>Euspira cragini</i> Stanton,display_name,Arctos,
+Serpula cragini,10968817,920633223,5D322B43-D57E-53DD-233D0319A3CD8356,ICZN,nomenclatural_code,Arctos,
+Serpula cragini,10968817,920633224,5D322B43-D57E-53DD-233D0319A3CD8356,"Twenhofel, 1924",author_text,Arctos,
+Serpula cragini,10968817,920633225,5D322B43-D57E-53DD-233D0319A3CD8356,"From Scott 1970, dperriguey, 2019-02-19",source_authority,Arctos,
+Serpula cragini,10968817,920633226,5D322B43-D57E-53DD-233D0319A3CD8356,Animalia,kingdom,Arctos,1
+Serpula cragini,10968817,920633227,5D322B43-D57E-53DD-233D0319A3CD8356,Annelida,phylum,Arctos,2
+Serpula cragini,10968817,920633228,5D322B43-D57E-53DD-233D0319A3CD8356,Polychaeta,class,Arctos,3
+Serpula cragini,10968817,920633229,5D322B43-D57E-53DD-233D0319A3CD8356,Sabellida,order,Arctos,4
+Serpula cragini,10968817,920633230,5D322B43-D57E-53DD-233D0319A3CD8356,Serpulidae,family,Arctos,5
+Serpula cragini,10968817,920633231,5D322B43-D57E-53DD-233D0319A3CD8356,Serpula,genus,Arctos,6
+Serpula cragini,10968817,920633232,5D322B43-D57E-53DD-233D0319A3CD8356,Serpula cragini,species,Arctos,7
+Serpula cragini,10968817,920633233,5D322B43-D57E-53DD-233D0319A3CD8356,Serpula cragini,scientific_name,Arctos,
+Serpula cragini,10968817,920633234,5D322B43-D57E-53DD-233D0319A3CD8356,"<i>Serpula cragini</i> Twenhofel, 1924",display_name,Arctos,
+Praescabrotrigonia clavigera,10969432,839949264,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,ICZN,nomenclatural_code,Arctos,
+Praescabrotrigonia clavigera,10969432,839949265,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,WoRMS through Arctos dperriguey 2018-11-21,source_authority,Arctos,
+Praescabrotrigonia clavigera,10969432,839949266,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,"(Cragin, 1893)",author_text,Arctos,
+Praescabrotrigonia clavigera,10969432,839949267,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Animalia,kingdom,Arctos,1
+Praescabrotrigonia clavigera,10969432,839949268,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Mollusca,phylum,Arctos,2
+Praescabrotrigonia clavigera,10969432,839949269,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Bivalvia,class,Arctos,3
+Praescabrotrigonia clavigera,10969432,839949270,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Palaeoheterodonta,subclass,Arctos,4
+Praescabrotrigonia clavigera,10969432,839949271,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Trigoniida,order,Arctos,5
+Praescabrotrigonia clavigera,10969432,839949272,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Megatrigonioidea,superfamily,Arctos,6
+Praescabrotrigonia clavigera,10969432,839949273,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Pterotrigoniidae,family,Arctos,7
+Praescabrotrigonia clavigera,10969432,839949274,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Praescabrotrigonia,genus,Arctos,8
+Praescabrotrigonia clavigera,10969432,839949275,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Praescabrotrigonia clavigera,species,Arctos,9
+Praescabrotrigonia clavigera,10969432,839949279,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,"<i>Praescabrotrigonia clavigera</i> (Cragin, 1893)",display_name,Arctos,
+Praescabrotrigonia clavigera,10969432,839949280,2BBD8970-F888-F184-2DDEB6D75AC0E3B5,Praescabrotrigonia clavigera,scientific_name,Arctos,
+Pisces,11115027,1006026041,86D5315AFD7F10DDE0507281913441B1,11676,aphiaid,Arctos,
+Pisces,11115027,1006026042,86D5315AFD7F10DDE0507281913441B1,"Froese, R. and D. Pauly. Editors. (2018). FishBase. Pisces. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=11676 on 2018-12-18",source_authority,Arctos,
+Pisces,11115027,1006026043,86D5315AFD7F10DDE0507281913441B1,valid,taxon_status,Arctos,
+Pisces,11115027,1006026044,86D5315AFD7F10DDE0507281913441B1,Animalia,kingdom,Arctos,2
+Pisces,11115027,1006026045,86D5315AFD7F10DDE0507281913441B1,Chordata,phylum,Arctos,3
+Pisces,11115027,1006026046,86D5315AFD7F10DDE0507281913441B1,Vertebrata,subphylum,Arctos,4
+Pisces,11115027,1006026047,86D5315AFD7F10DDE0507281913441B1,Gnathostomata,superclass,Arctos,5
+Pisces,11115027,1006026048,86D5315AFD7F10DDE0507281913441B1,Pisces,superclass,Arctos,6
+Pisces,11115027,1006026049,86D5315AFD7F10DDE0507281913441B1,ICZN,nomenclatural_code,Arctos,
+Pisces,11115027,1006039203,86D5315AFD7F10DDE0507281913441B1,Pisces,scientific_name,Arctos,
+Pisces,11115027,1006039204,86D5315AFD7F10DDE0507281913441B1,Pisces,display_name,Arctos,
+Amberleya mudgeana,11573154,1030550978,86FB6DA156BBF7EFE050728191343FAC,Meek,author_text,Arctos,
+Amberleya mudgeana,11573154,1030551050,86FB6DA156BBF7EFE050728191343FAC,ICZN,nomenclatural_code,Arctos,
+Amberleya mudgeana,11573154,1030551052,86FB6DA156BBF7EFE050728191343FAC,"Up to genus copied from WoRMS (via Arctos), dperriguey, 2019-01-01",remark,Arctos,
+Amberleya mudgeana,11573154,1030551068,86FB6DA156BBF7EFE050728191343FAC,Cushman 1946,source_authority,Arctos,
+Amberleya mudgeana,11573154,1030551191,86FB6DA156BBF7EFE050728191343FAC,extinct,taxon_status,Arctos,
+Amberleya mudgeana,11573154,1030551193,86FB6DA156BBF7EFE050728191343FAC,Animalia,kingdom,Arctos,1
+Amberleya mudgeana,11573154,1030551195,86FB6DA156BBF7EFE050728191343FAC,Mollusca,phylum,Arctos,2
+Amberleya mudgeana,11573154,1030551197,86FB6DA156BBF7EFE050728191343FAC,Gastropoda,class,Arctos,3
+Amberleya mudgeana,11573154,1030551198,86FB6DA156BBF7EFE050728191343FAC,Vetigastropoda,subclass,Arctos,4
+Amberleya mudgeana,11573154,1030551200,86FB6DA156BBF7EFE050728191343FAC,Seguenziida,order,Arctos,5
+Amberleya mudgeana,11573154,1030551202,86FB6DA156BBF7EFE050728191343FAC,Seguenzioidea,superfamily,Arctos,6
+Amberleya mudgeana,11573154,1030551203,86FB6DA156BBF7EFE050728191343FAC,Eucyclidae,family,Arctos,7
+Amberleya mudgeana,11573154,1030551205,86FB6DA156BBF7EFE050728191343FAC,Amberleya,genus,Arctos,8
+Amberleya mudgeana,11573154,1030551207,86FB6DA156BBF7EFE050728191343FAC,Amberleya mudgeana,species,Arctos,9
+Amberleya mudgeana,11573154,1043635715,86FB6DA156BBF7EFE050728191343FAC,Amberleya mudgeana,scientific_name,Arctos,
+Amberleya mudgeana,11573154,1043635716,86FB6DA156BBF7EFE050728191343FAC,<i>Amberleya mudgeana</i> Meek,display_name,Arctos,
+Ophiomorpha major,11577396,920020183,A5DC90C5-931F-D635-75C87E23E25A80B3,Lesquereux 1867,author_text,Arctos,
+Ophiomorpha major,11577396,920020184,A5DC90C5-931F-D635-75C87E23E25A80B3,"Ichnofossil, dperriguey, 2019-01-22",remark,Arctos,
+Ophiomorpha major,11577396,920020185,A5DC90C5-931F-D635-75C87E23E25A80B3,"Lesquereux 1867, noted determination change in Mapel and Pillmore 1964",source_authority,Arctos,
+Ophiomorpha major,11577396,920020186,A5DC90C5-931F-D635-75C87E23E25A80B3,Animalia,kingdom,Arctos,1
+Ophiomorpha major,11577396,920020187,A5DC90C5-931F-D635-75C87E23E25A80B3,Metazoa,subkingdom,Arctos,2
+Ophiomorpha major,11577396,920020188,A5DC90C5-931F-D635-75C87E23E25A80B3,Ophiomorpha,genus,Arctos,3
+Ophiomorpha major,11577396,920020189,A5DC90C5-931F-D635-75C87E23E25A80B3,Ophiomorpha major,species,Arctos,4
+Ophiomorpha major,11577396,920020190,A5DC90C5-931F-D635-75C87E23E25A80B3,Ophiomorpha major,scientific_name,Arctos,
+Ophiomorpha major,11577396,920020191,A5DC90C5-931F-D635-75C87E23E25A80B3,<i>Ophiomorpha major</i> Lesquereux 1867,display_name,Arctos,
+Drepanochilus mudgeana,11577467,920031316,D5E55FCF-D89C-6865-787637AF046F63EF,ICZN,nomenclatural_code,Arctos,
+Drepanochilus mudgeana,11577467,920031317,D5E55FCF-D89C-6865-787637AF046F63EF,"From Arctos (genus), dperriguey, 2019-01-23",source_authority,Arctos,
+Drepanochilus mudgeana,11577467,920031318,D5E55FCF-D89C-6865-787637AF046F63EF,White,author_text,Arctos,
+Drepanochilus mudgeana,11577467,920031319,D5E55FCF-D89C-6865-787637AF046F63EF,Animalia,kingdom,Arctos,1
+Drepanochilus mudgeana,11577467,920031320,D5E55FCF-D89C-6865-787637AF046F63EF,Metazoa,subkingdom,Arctos,2
+Drepanochilus mudgeana,11577467,920031321,D5E55FCF-D89C-6865-787637AF046F63EF,Mollusca,phylum,Arctos,3
+Drepanochilus mudgeana,11577467,920031322,D5E55FCF-D89C-6865-787637AF046F63EF,Gastropoda,class,Arctos,4
+Drepanochilus mudgeana,11577467,920031323,D5E55FCF-D89C-6865-787637AF046F63EF,Hypsogastropoda,superorder,Arctos,5
+Drepanochilus mudgeana,11577467,920031324,D5E55FCF-D89C-6865-787637AF046F63EF,Littorinimorpha,infraorder,Arctos,6
+Drepanochilus mudgeana,11577467,920031325,D5E55FCF-D89C-6865-787637AF046F63EF,Stromboidea,superfamily,Arctos,7
+Drepanochilus mudgeana,11577467,920031326,D5E55FCF-D89C-6865-787637AF046F63EF,Aporrhaidae,family,Arctos,8
+Drepanochilus mudgeana,11577467,920031327,D5E55FCF-D89C-6865-787637AF046F63EF,Drepanochilus,genus,Arctos,9
+Drepanochilus mudgeana,11577467,920031328,D5E55FCF-D89C-6865-787637AF046F63EF,Drepanochilus mudgeana,species,Arctos,10
+Drepanochilus mudgeana,11577467,920031329,D5E55FCF-D89C-6865-787637AF046F63EF,Drepanochilus mudgeana,scientific_name,Arctos,
+Drepanochilus mudgeana,11577467,920031330,D5E55FCF-D89C-6865-787637AF046F63EF,<i>Drepanochilus mudgeana</i> White,display_name,Arctos,
+Attenosaurus subulensis,11577948,1219519634,F024D730-FEA0-04A4-5440BA5A10F4CFF1,"Thurmond and Jones, 1981",author_text,Arctos,
+Attenosaurus subulensis,11577948,1219519635,F024D730-FEA0-04A4-5440BA5A10F4CFF1,ICZN,nomenclatural_code,Arctos,
+Attenosaurus subulensis,11577948,1219519636,F024D730-FEA0-04A4-5440BA5A10F4CFF1,"Catalogue of Life, 2019",source_authority,Arctos,
+Attenosaurus subulensis,11577948,1219519637,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Animalia,kingdom,Arctos,1
+Attenosaurus subulensis,11577948,1219519638,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Chordata,phylum,Arctos,2
+Attenosaurus subulensis,11577948,1219519639,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Reptilia,class,Arctos,3
+Attenosaurus subulensis,11577948,1219519640,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Attenosaurus,ichnogenus,Arctos,4
+Attenosaurus subulensis,11577948,1219519641,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Attenosaurus subulensis,ichnospecies,Arctos,5
+Attenosaurus subulensis,11577948,1226341904,F024D730-FEA0-04A4-5440BA5A10F4CFF1,Attenosaurus subulensis,scientific_name,Arctos,
+Attenosaurus subulensis,11577948,1226341905,F024D730-FEA0-04A4-5440BA5A10F4CFF1,"Attenosaurus subulensis Thurmond and Jones, 1981",display_name,Arctos,
+Batrachopus,11577950,920279857,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,ICZN,nomenclatural_code,Arctos,
+Batrachopus,11577950,920279858,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,"Hitchcock, 184",author_text,Arctos,
+Batrachopus,11577950,920279859,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,"GBIF, 2019",source_authority,Arctos,
+Batrachopus,11577950,920279860,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Animalia,kingdom,Arctos,1
+Batrachopus,11577950,920279861,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Chordata,phylum,Arctos,2
+Batrachopus,11577950,920279862,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Reptilia,class,Arctos,3
+Batrachopus,11577950,920279863,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Crocodylia,order,Arctos,4
+Batrachopus,11577950,920279864,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Batrachopodidae,family,Arctos,5
+Batrachopus,11577950,920279865,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Batrachopus,genus,Arctos,6
+Batrachopus,11577950,920279866,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,Batrachopus,scientific_name,Arctos,
+Batrachopus,11577950,920279867,F09F3E4A-E92D-42F2-3BCC56F8C5D0DC98,"<i>Batrachopus</i> Hitchcock, 184",display_name,Arctos,
+Kouphichnium,11578041,1050677338,E2F3C0E0-9B58-803A-26D43B03F4210ADD,ICZN,nomenclatural_code,Arctos,
+Kouphichnium,11578041,1050677339,E2F3C0E0-9B58-803A-26D43B03F4210ADD,"Nopcsa, 1923",author_text,Arctos,
+Kouphichnium,11578041,1050677340,E2F3C0E0-9B58-803A-26D43B03F4210ADD,"GBIF, 2019",source_authority,Arctos,
+Kouphichnium,11578041,1050677341,E2F3C0E0-9B58-803A-26D43B03F4210ADD,Animalia,kingdom,Arctos,1
+Kouphichnium,11578041,1050677342,E2F3C0E0-9B58-803A-26D43B03F4210ADD,Chordata,phylum,Arctos,2
+Kouphichnium,11578041,1050677343,E2F3C0E0-9B58-803A-26D43B03F4210ADD,Reptilia,class,Arctos,3
+Kouphichnium,11578041,1050677344,E2F3C0E0-9B58-803A-26D43B03F4210ADD,Kouphichnium,genus,Arctos,4
+Kouphichnium,11578041,1050677345,E2F3C0E0-9B58-803A-26D43B03F4210ADD,Kouphichnium,scientific_name,Arctos,
+Kouphichnium,11578041,1050677346,E2F3C0E0-9B58-803A-26D43B03F4210ADD,"<i>Kouphichnium</i> Nopcsa, 1923",display_name,Arctos,
+Limnosaurus alabamaensis,11578043,1294298054,F0A1C073-C36E-84EC-83FDCD916D70C8D7,"Aldrich & Jones, 1930",author_text,Arctos,
+Limnosaurus alabamaensis,11578043,1294298055,F0A1C073-C36E-84EC-83FDCD916D70C8D7,ICZN,nomenclatural_code,Arctos,
+Limnosaurus alabamaensis,11578043,1294298056,F0A1C073-C36E-84EC-83FDCD916D70C8D7,"GBIF, 2019",source_authority,Arctos,
+Limnosaurus alabamaensis,11578043,1294298057,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Animalia,kingdom,Arctos,1
+Limnosaurus alabamaensis,11578043,1294298058,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Chordata,phylum,Arctos,2
+Limnosaurus alabamaensis,11578043,1294298059,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Reptilia,class,Arctos,3
+Limnosaurus alabamaensis,11578043,1294298060,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Limnosaurus,genus,Arctos,4
+Limnosaurus alabamaensis,11578043,1294298061,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Limnosaurus alabamaensis,species,Arctos,5
+Limnosaurus alabamaensis,11578043,1294298074,F0A1C073-C36E-84EC-83FDCD916D70C8D7,Limnosaurus alabamaensis,scientific_name,Arctos,
+Limnosaurus alabamaensis,11578043,1294298075,F0A1C073-C36E-84EC-83FDCD916D70C8D7,"<i>Limnosaurus alabamaensis</i> Aldrich & Jones, 1930",display_name,Arctos,
+Nanopus reidiae,11578053,1050395926,479CB64A-DA4D-0556-1FF8A1C637A718C6,ICZN,nomenclatural_code,Arctos,
+Nanopus reidiae,11578053,1050395927,479CB64A-DA4D-0556-1FF8A1C637A718C6,"Haubold et al., 2005",author_text,Arctos,
+Nanopus reidiae,11578053,1050395932,479CB64A-DA4D-0556-1FF8A1C637A718C6,"GBIF, 2019",source_authority,Arctos,
+Nanopus reidiae,11578053,1050395933,479CB64A-DA4D-0556-1FF8A1C637A718C6,Animalia,kingdom,Arctos,1
+Nanopus reidiae,11578053,1050395934,479CB64A-DA4D-0556-1FF8A1C637A718C6,Chordata,phylum,Arctos,2
+Nanopus reidiae,11578053,1050395935,479CB64A-DA4D-0556-1FF8A1C637A718C6,Amphibia,class,Arctos,3
+Nanopus reidiae,11578053,1050395936,479CB64A-DA4D-0556-1FF8A1C637A718C6,Nanopus,genus,Arctos,4
+Nanopus reidiae,11578053,1050395937,479CB64A-DA4D-0556-1FF8A1C637A718C6,Nanopus reidiae,species,Arctos,5
+Nanopus reidiae,11578053,1050444059,479CB64A-DA4D-0556-1FF8A1C637A718C6,Nanopus reidiae,scientific_name,Arctos,
+Nanopus reidiae,11578053,1050444060,479CB64A-DA4D-0556-1FF8A1C637A718C6,"<i>Nanopus reidiae</i> Haubold et al., 2005",display_name,Arctos,
+Squalicorax kaupi,11578117,1267562086,A07E300B-9AD9-0046-531B1D9700E0F926,"(Agassiz, 1843)",author_text,Arctos,
+Squalicorax kaupi,11578117,1267562087,A07E300B-9AD9-0046-531B1D9700E0F926,ICZN,nomenclatural_code,Arctos,
+Squalicorax kaupi,11578117,1267562088,A07E300B-9AD9-0046-531B1D9700E0F926,"GBIF, 2019",source_authority,Arctos,
+Squalicorax kaupi,11578117,1267562089,A07E300B-9AD9-0046-531B1D9700E0F926,Animalia,kingdom,Arctos,1
+Squalicorax kaupi,11578117,1267562090,A07E300B-9AD9-0046-531B1D9700E0F926,Chordata,phylum,Arctos,2
+Squalicorax kaupi,11578117,1267562091,A07E300B-9AD9-0046-531B1D9700E0F926,Elasmobranchii,class,Arctos,3
+Squalicorax kaupi,11578117,1267562092,A07E300B-9AD9-0046-531B1D9700E0F926,Lamniformes,order,Arctos,4
+Squalicorax kaupi,11578117,1267562093,A07E300B-9AD9-0046-531B1D9700E0F926,Lamnidae,family,Arctos,5
+Squalicorax kaupi,11578117,1267562374,A07E300B-9AD9-0046-531B1D9700E0F926,Squalicorax,genus,Arctos,6
+Squalicorax kaupi,11578117,1267562375,A07E300B-9AD9-0046-531B1D9700E0F926,Squalicorax kaupi,species,Arctos,7
+Squalicorax kaupi,11578117,1267562394,A07E300B-9AD9-0046-531B1D9700E0F926,Squalicorax kaupi,scientific_name,Arctos,
+Squalicorax kaupi,11578117,1267562395,A07E300B-9AD9-0046-531B1D9700E0F926,"<i>Squalicorax kaupi</i> (Agassiz, 1843)",display_name,Arctos,
+Engonoceras,11581551,920633356,4497262C-B010-05C8-27D3D4E37164ABC6,ICZN,nomenclatural_code,Arctos,
+Engonoceras,11581551,920633357,4497262C-B010-05C8-27D3D4E37164ABC6,Neumayr and Uhlig 1881,author_text,Arctos,
+Engonoceras,11581551,920633358,4497262C-B010-05C8-27D3D4E37164ABC6,"From PBDB, dperriguey, 2019-02-19",source_authority,Arctos,
+Engonoceras,11581551,920633359,4497262C-B010-05C8-27D3D4E37164ABC6,Animalia,kingdom,Arctos,1
+Engonoceras,11581551,920633360,4497262C-B010-05C8-27D3D4E37164ABC6,Metazoa,subkingdom,Arctos,2
+Engonoceras,11581551,920633361,4497262C-B010-05C8-27D3D4E37164ABC6,Mollusca,phylum,Arctos,3
+Engonoceras,11581551,920633362,4497262C-B010-05C8-27D3D4E37164ABC6,Cephalopoda,class,Arctos,4
+Engonoceras,11581551,920633363,4497262C-B010-05C8-27D3D4E37164ABC6,Ammonoidea,subclass,Arctos,5
+Engonoceras,11581551,920633364,4497262C-B010-05C8-27D3D4E37164ABC6,Ammonitida,order,Arctos,6
+Engonoceras,11581551,920633365,4497262C-B010-05C8-27D3D4E37164ABC6,Ammonitina,suborder,Arctos,7
+Engonoceras,11581551,920633366,4497262C-B010-05C8-27D3D4E37164ABC6,Engonoceratoidea,superfamily,Arctos,8
+Engonoceras,11581551,920633367,4497262C-B010-05C8-27D3D4E37164ABC6,Engonoceratidae,family,Arctos,9
+Engonoceras,11581551,920633368,4497262C-B010-05C8-27D3D4E37164ABC6,Engonoceras,genus,Arctos,10
+Engonoceras,11581551,920633369,4497262C-B010-05C8-27D3D4E37164ABC6,Engonoceras,scientific_name,Arctos,
+Engonoceras,11581551,920633370,4497262C-B010-05C8-27D3D4E37164ABC6,<i>Engonoceras</i> Neumayr and Uhlig 1881,display_name,Arctos,
+Coniferopsida,11606750,1211849839,38CB02A1-EB48-450E-AC76973BEE2C46CF,ICBN,nomenclatural_code,Arctos,
+Coniferopsida,11606750,1211849840,38CB02A1-EB48-450E-AC76973BEE2C46CF,"ITIS, 2020",source_authority,Arctos,
+Coniferopsida,11606750,1211849841,38CB02A1-EB48-450E-AC76973BEE2C46CF,Plantae,kingdom,Arctos,1
+Coniferopsida,11606750,1211849842,38CB02A1-EB48-450E-AC76973BEE2C46CF,Viridiplantae,subkingdom,Arctos,2
+Coniferopsida,11606750,1211849843,38CB02A1-EB48-450E-AC76973BEE2C46CF,Streptophyta,infrakingdom,Arctos,3
+Coniferopsida,11606750,1211849844,38CB02A1-EB48-450E-AC76973BEE2C46CF,Spermatophytina,subdivision,Arctos,4
+Coniferopsida,11606750,1211849845,38CB02A1-EB48-450E-AC76973BEE2C46CF,Coniferopsida,class,Arctos,5
+Coniferopsida,11606750,1226175689,38CB02A1-EB48-450E-AC76973BEE2C46CF,Coniferopsida,scientific_name,Arctos,
+Hyloidichnus,11651817,1153742440,7B93AA78-D834-4D18-AE93BE4E9895C0D2,ICZN,nomenclatural_code,Arctos,
+Hyloidichnus,11651817,1153742441,7B93AA78-D834-4D18-AE93BE4E9895C0D2,"Gilmore, 1927",author_text,Arctos,
+Hyloidichnus,11651817,1153742442,7B93AA78-D834-4D18-AE93BE4E9895C0D2," Hyloidichnus Gilmore, 1927 in GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei accessed via GBIF.org on 2020-01-29.",source_authority,Arctos,
+Hyloidichnus,11651817,1153742443,7B93AA78-D834-4D18-AE93BE4E9895C0D2,valid,taxon_status,Arctos,
+Hyloidichnus,11651817,1153742444,7B93AA78-D834-4D18-AE93BE4E9895C0D2,Animalia,kingdom,Arctos,1
+Hyloidichnus,11651817,1153742445,7B93AA78-D834-4D18-AE93BE4E9895C0D2,Chordata,phylum,Arctos,2
+Hyloidichnus,11651817,1153742446,7B93AA78-D834-4D18-AE93BE4E9895C0D2,Amphibia,class,Arctos,3
+Hyloidichnus,11651817,1153742447,7B93AA78-D834-4D18-AE93BE4E9895C0D2,Hyloidichnus,genus,Arctos,4
+Hyloidichnus,11651817,1226193953,7B93AA78-D834-4D18-AE93BE4E9895C0D2,Hyloidichnus,scientific_name,Arctos,
+Hyloidichnus,11651817,1226193954,7B93AA78-D834-4D18-AE93BE4E9895C0D2,"<i>Hyloidichnus</i> Gilmore, 1927",display_name,Arctos,
+Amphisauropus,11756364,1152881267,7F263618-CA5F-92B4-97C495C512A9FD2C,ICZN,nomenclatural_code,Arctos,
+Amphisauropus,11756364,1152881268,7F263618-CA5F-92B4-97C495C512A9FD2C,"Haubold, 1970",author_text,Arctos,
+Amphisauropus,11756364,1152881269,7F263618-CA5F-92B4-97C495C512A9FD2C,"IRMNG (2019). Amphisauropus Haubold, 1970 †. Accessed at: http://irmng.org/aphia.php?p=taxdetails&id=1163962 on 2020-01-09",source_authority,Arctos,
+Amphisauropus,11756364,1152881270,7F263618-CA5F-92B4-97C495C512A9FD2C,extinct,taxon_status,Arctos,
+Amphisauropus,11756364,1152881271,7F263618-CA5F-92B4-97C495C512A9FD2C,Animalia,kingdom,Arctos,1
+Amphisauropus,11756364,1152881272,7F263618-CA5F-92B4-97C495C512A9FD2C,Chordata,phylum,Arctos,2
+Amphisauropus,11756364,1152881273,7F263618-CA5F-92B4-97C495C512A9FD2C,Amphibia,class,Arctos,3
+Amphisauropus,11756364,1152881274,7F263618-CA5F-92B4-97C495C512A9FD2C,Labyrinthodontia,order,Arctos,4
+Amphisauropus,11756364,1152881275,7F263618-CA5F-92B4-97C495C512A9FD2C,Amphisauropus,genus,Arctos,5
+Amphisauropus,11756364,1226203626,7F263618-CA5F-92B4-97C495C512A9FD2C,Amphisauropus,scientific_name,Arctos,
+Amphisauropus,11756364,1226203627,7F263618-CA5F-92B4-97C495C512A9FD2C,"<i>Amphisauropus</i> Haubold, 1970",display_name,Arctos,
+Phyloblatta,11776884,1152863453,42CD775A-96B2-5937-8D15601DE0EB4BA0,ICZN,nomenclatural_code,Arctos,
+Phyloblatta,11776884,1152863454,42CD775A-96B2-5937-8D15601DE0EB4BA0,"Handlirsch, 1906",author_text,Arctos,
+Phyloblatta,11776884,1152863455,42CD775A-96B2-5937-8D15601DE0EB4BA0,"IRMNG (2019). Phyloblatta Handlirsch, 1906 †. Accessed at: http://www.irmng.org/aphia.php?p=taxdetails&id=1171668 on 2020-01-08",source_authority,Arctos,
+Phyloblatta,11776884,1152863456,42CD775A-96B2-5937-8D15601DE0EB4BA0,extinct,taxon_status,Arctos,
+Phyloblatta,11776884,1152863457,42CD775A-96B2-5937-8D15601DE0EB4BA0,valid,taxon_status,Arctos,
+Phyloblatta,11776884,1152863458,42CD775A-96B2-5937-8D15601DE0EB4BA0,Animalia,kingdom,Arctos,1
+Phyloblatta,11776884,1152863459,42CD775A-96B2-5937-8D15601DE0EB4BA0,Arthropoda,phylum,Arctos,2
+Phyloblatta,11776884,1152863460,42CD775A-96B2-5937-8D15601DE0EB4BA0,Insecta,class,Arctos,3
+Phyloblatta,11776884,1152863461,42CD775A-96B2-5937-8D15601DE0EB4BA0,Blattodea,order,Arctos,4
+Phyloblatta,11776884,1152863462,42CD775A-96B2-5937-8D15601DE0EB4BA0,Archimylacridae,family,Arctos,5
+Phyloblatta,11776884,1152863463,42CD775A-96B2-5937-8D15601DE0EB4BA0,Phyloblatta,genus,Arctos,6
+Phyloblatta,11776884,1226177262,42CD775A-96B2-5937-8D15601DE0EB4BA0,Phyloblatta,scientific_name,Arctos,
+Phyloblatta,11776884,1226177263,42CD775A-96B2-5937-8D15601DE0EB4BA0,"<i>Phyloblatta</i> Handlirsch, 1906",display_name,Arctos,
+Varanopus,11787942,1153742428,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,ICZN,nomenclatural_code,Arctos,
+Varanopus,11787942,1153742429,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,"Moodie, 1929",author_text,Arctos,
+Varanopus,11787942,1153742430,7B83C55E-9285-2CC2-48C3E49DCA53C3B6," Varanopus Moodie, 1929 in GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei accessed via GBIF.org on 2020-01-29.",source_authority,Arctos,
+Varanopus,11787942,1153742431,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,valid,taxon_status,Arctos,
+Varanopus,11787942,1153742432,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,Animalia,kingdom,Arctos,1
+Varanopus,11787942,1153742433,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,Chordata,phylum,Arctos,2
+Varanopus,11787942,1153742434,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,Reptilia,class,Arctos,3
+Varanopus,11787942,1153742435,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,Varanopus,genus,Arctos,4
+Varanopus,11787942,1226193949,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,Varanopus,scientific_name,Arctos,
+Varanopus,11787942,1226193950,7B83C55E-9285-2CC2-48C3E49DCA53C3B6,"<i>Varanopus</i> Moodie, 1929",display_name,Arctos,
+Varanopus curvidactylus,11824087,1153742415,7B709474-EC98-56A8-61A2E52ED312A747,ICZN,nomenclatural_code,Arctos,
+Varanopus curvidactylus,11824087,1153742416,7B709474-EC98-56A8-61A2E52ED312A747,"Moodie, 1929",author_text,Arctos,
+Varanopus curvidactylus,11824087,1153742417,7B709474-EC98-56A8-61A2E52ED312A747," Varanopus curvidactylus Moodie, 1929 in GBIF Secretariat (2019). GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei accessed via GBIF.org on 2020-01-29.",source_authority,Arctos,
+Varanopus curvidactylus,11824087,1153742418,7B709474-EC98-56A8-61A2E52ED312A747,valid,taxon_status,Arctos,
+Varanopus curvidactylus,11824087,1153742419,7B709474-EC98-56A8-61A2E52ED312A747,Animalia,kingdom,Arctos,1
+Varanopus curvidactylus,11824087,1153742420,7B709474-EC98-56A8-61A2E52ED312A747,Chordata,phylum,Arctos,2
+Varanopus curvidactylus,11824087,1153742421,7B709474-EC98-56A8-61A2E52ED312A747,Reptilia,class,Arctos,3
+Varanopus curvidactylus,11824087,1153742422,7B709474-EC98-56A8-61A2E52ED312A747,Varanopus,genus,Arctos,4
+Varanopus curvidactylus,11824087,1153742423,7B709474-EC98-56A8-61A2E52ED312A747,Varanopus curvidactylus,species,Arctos,5
+Varanopus curvidactylus,11824087,1226193943,7B709474-EC98-56A8-61A2E52ED312A747,Varanopus curvidactylus,scientific_name,Arctos,
+Varanopus curvidactylus,11824087,1226193944,7B709474-EC98-56A8-61A2E52ED312A747,"<i>Varanopus curvidactylus</i> Moodie, 1929",display_name,Arctos,
+Aporrhais subfusiformis,11884223,929022190,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,ICZN,nomenclatural_code,Arctos,
+Aporrhais subfusiformis,11884223,929022191,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Shumard,author_text,Arctos,
+Aporrhais subfusiformis,11884223,929022192,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,"Stanton 1947, dperriguey, 2019-04-03",source_authority,Arctos,
+Aporrhais subfusiformis,11884223,929022193,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Animalia,kingdom,Arctos,1
+Aporrhais subfusiformis,11884223,929022194,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Metazoa,subkingdom,Arctos,2
+Aporrhais subfusiformis,11884223,929022195,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Mollusca,phylum,Arctos,3
+Aporrhais subfusiformis,11884223,929022196,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Gastropoda,class,Arctos,4
+Aporrhais subfusiformis,11884223,929022197,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Hypsogastropoda,superorder,Arctos,5
+Aporrhais subfusiformis,11884223,929022198,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Littorinimorpha,infraorder,Arctos,6
+Aporrhais subfusiformis,11884223,929022199,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Stromboidea,superfamily,Arctos,7
+Aporrhais subfusiformis,11884223,929022200,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Aporrhaidae,family,Arctos,8
+Aporrhais subfusiformis,11884223,929022201,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Aporrhais,genus,Arctos,9
+Aporrhais subfusiformis,11884223,929022202,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Aporrhais subfusiformis,species,Arctos,10
+Aporrhais subfusiformis,11884223,929022203,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,Aporrhais subfusiformis,scientific_name,Arctos,
+Aporrhais subfusiformis,11884223,929022204,EB4EE2E3-B5D2-B018-816BDAD10F2659A1,<i>Aporrhais subfusiformis</i> Shumard,display_name,Arctos,
+Cerithium riograndense,11884225,929041214,EBEA0B79-EA50-A78B-802F92C16C3E1529,Stanton 1947,author_text,Arctos,
+Cerithium riograndense,11884225,929041215,EBEA0B79-EA50-A78B-802F92C16C3E1529,ICZN,nomenclatural_code,Arctos,
+Cerithium riograndense,11884225,929041216,EBEA0B79-EA50-A78B-802F92C16C3E1529,"From GBIF and Stanton 1947, dperriguey, 2019-04-03",remark,Arctos,
+Cerithium riograndense,11884225,929041217,EBEA0B79-EA50-A78B-802F92C16C3E1529,Animalia,kingdom,Arctos,1
+Cerithium riograndense,11884225,929041218,EBEA0B79-EA50-A78B-802F92C16C3E1529,Mollusca,phylum,Arctos,2
+Cerithium riograndense,11884225,929041219,EBEA0B79-EA50-A78B-802F92C16C3E1529,Gastropoda,class,Arctos,3
+Cerithium riograndense,11884225,929041220,EBEA0B79-EA50-A78B-802F92C16C3E1529,Cerithiidae,family,Arctos,4
+Cerithium riograndense,11884225,929041221,EBEA0B79-EA50-A78B-802F92C16C3E1529,Cerithium,genus,Arctos,5
+Cerithium riograndense,11884225,929041222,EBEA0B79-EA50-A78B-802F92C16C3E1529,Cerithium riograndense,species,Arctos,6
+Cerithium riograndense,11884225,929041223,EBEA0B79-EA50-A78B-802F92C16C3E1529,Cerithium riograndense,scientific_name,Arctos,
+Cerithium riograndense,11884225,929041224,EBEA0B79-EA50-A78B-802F92C16C3E1529,<i>Cerithium riograndense</i> Stanton 1947,display_name,Arctos,
+Tylostoma formosum,11884226,929051703,EC39E4AD-DED5-8577-63F909DDDD328248,Stanton 1947,author_text,Arctos,
+Tylostoma formosum,11884226,929051704,EC39E4AD-DED5-8577-63F909DDDD328248,ICZN,nomenclatural_code,Arctos,
+Tylostoma formosum,11884226,929051705,EC39E4AD-DED5-8577-63F909DDDD328248,"From PBDB through Arctos and Stanton 1947, dperriguey, 2019-04-03",source_authority,Arctos,
+Tylostoma formosum,11884226,929051706,EC39E4AD-DED5-8577-63F909DDDD328248,Animalia,kingdom,Arctos,1
+Tylostoma formosum,11884226,929051707,EC39E4AD-DED5-8577-63F909DDDD328248,Metazoa,subkingdom,Arctos,2
+Tylostoma formosum,11884226,929051708,EC39E4AD-DED5-8577-63F909DDDD328248,Mollusca,phylum,Arctos,3
+Tylostoma formosum,11884226,929051709,EC39E4AD-DED5-8577-63F909DDDD328248,Gastropoda,class,Arctos,4
+Tylostoma formosum,11884226,929051710,EC39E4AD-DED5-8577-63F909DDDD328248,Hypsogastropoda,superorder,Arctos,5
+Tylostoma formosum,11884226,929051711,EC39E4AD-DED5-8577-63F909DDDD328248,Littorinimorpha,infraorder,Arctos,6
+Tylostoma formosum,11884226,929051712,EC39E4AD-DED5-8577-63F909DDDD328248,Stromboidea,superfamily,Arctos,7
+Tylostoma formosum,11884226,929051713,EC39E4AD-DED5-8577-63F909DDDD328248,Tylostomatidae,family,Arctos,8
+Tylostoma formosum,11884226,929051714,EC39E4AD-DED5-8577-63F909DDDD328248,Tylostoma,genus,Arctos,9
+Tylostoma formosum,11884226,929051715,EC39E4AD-DED5-8577-63F909DDDD328248,Tylostoma formosum,species,Arctos,10
+Tylostoma formosum,11884226,929051716,EC39E4AD-DED5-8577-63F909DDDD328248,Tylostoma formosum,scientific_name,Arctos,
+Tylostoma formosum,11884226,929051717,EC39E4AD-DED5-8577-63F909DDDD328248,<i>Tylostoma formosum</i> Stanton 1947,display_name,Arctos,
+Tylostoma regina,11884227,929051728,EC85055F-AABD-A397-B5A0C786C23E2D2D,ICZN,nomenclatural_code,Arctos,
+Tylostoma regina,11884227,929051729,EC85055F-AABD-A397-B5A0C786C23E2D2D,Cragin,author_text,Arctos,
+Tylostoma regina,11884227,929051730,EC85055F-AABD-A397-B5A0C786C23E2D2D,"Stanton 1947, dperriguey, 2019-04-03",source_authority,Arctos,
+Tylostoma regina,11884227,929051731,EC85055F-AABD-A397-B5A0C786C23E2D2D,Animalia,kingdom,Arctos,1
+Tylostoma regina,11884227,929051732,EC85055F-AABD-A397-B5A0C786C23E2D2D,Mollusca,phylum,Arctos,2
+Tylostoma regina,11884227,929051733,EC85055F-AABD-A397-B5A0C786C23E2D2D,Gastropoda,class,Arctos,3
+Tylostoma regina,11884227,929051734,EC85055F-AABD-A397-B5A0C786C23E2D2D,Caenogastropoda,subclass,Arctos,4
+Tylostoma regina,11884227,929051735,EC85055F-AABD-A397-B5A0C786C23E2D2D,Capaniloidea,superfamily,Arctos,5
+Tylostoma regina,11884227,929051736,EC85055F-AABD-A397-B5A0C786C23E2D2D,Tylostomatidae,family,Arctos,6
+Tylostoma regina,11884227,929051737,EC85055F-AABD-A397-B5A0C786C23E2D2D,Tylostoma,genus,Arctos,7
+Tylostoma regina,11884227,929051738,EC85055F-AABD-A397-B5A0C786C23E2D2D,Tylostoma regina,species,Arctos,8
+Tylostoma regina,11884227,929051739,EC85055F-AABD-A397-B5A0C786C23E2D2D,Tylostoma regina,scientific_name,Arctos,
+Tylostoma regina,11884227,929051740,EC85055F-AABD-A397-B5A0C786C23E2D2D,<i>Tylostoma regina</i> Cragin,display_name,Arctos,
+Amphisauroides,11949802,1151519653,291AA94B-A4A5-A69B-0997485C96ED5777,ICZN,nomenclatural_code,Arctos,
+Amphisauroides,11949802,1151519654,291AA94B-A4A5-A69B-0997485C96ED5777,"Haubold, 1970",author_text,Arctos,
+Amphisauroides,11949802,1151519655,291AA94B-A4A5-A69B-0997485C96ED5777,valid,taxon_status,Arctos,
+Amphisauroides,11949802,1151519656,291AA94B-A4A5-A69B-0997485C96ED5777,https://www.gbif.org/species/107852352,source_authority,Arctos,
+Amphisauroides,11949802,1151519657,291AA94B-A4A5-A69B-0997485C96ED5777,Animalia,kingdom,Arctos,1
+Amphisauroides,11949802,1151519658,291AA94B-A4A5-A69B-0997485C96ED5777,Chordata,phylum,Arctos,2
+Amphisauroides,11949802,1151519659,291AA94B-A4A5-A69B-0997485C96ED5777,Amphibia,class,Arctos,3
+Amphisauroides,11949802,1151519660,291AA94B-A4A5-A69B-0997485C96ED5777,Amphisauroides,genus,Arctos,4
+Amphisauroides,11949802,1226163954,291AA94B-A4A5-A69B-0997485C96ED5777,Amphisauroides,scientific_name,Arctos,
+Amphisauroides,11949802,1226163955,291AA94B-A4A5-A69B-0997485C96ED5777,"<i>Amphisauroides</i> Haubold, 1970",display_name,Arctos,
+Anthracopus,11949805,1151519760,29C0D7B8-9374-6A41-774C010BF4091748,ICZN,nomenclatural_code,Arctos,
+Anthracopus,11949805,1151519761,29C0D7B8-9374-6A41-774C010BF4091748,"Lorenz, 1879",author_text,Arctos,
+Anthracopus,11949805,1151519762,29C0D7B8-9374-6A41-774C010BF4091748,invalid,taxon_status,Arctos,
+Anthracopus,11949805,1151519763,29C0D7B8-9374-6A41-774C010BF4091748,https://www.gbif.org/species/4816338,source_authority,Arctos,
+Anthracopus,11949805,1151519764,29C0D7B8-9374-6A41-774C010BF4091748,Animalia,kingdom,Arctos,1
+Anthracopus,11949805,1151519765,29C0D7B8-9374-6A41-774C010BF4091748,Chordata,phylum,Arctos,2
+Anthracopus,11949805,1151519766,29C0D7B8-9374-6A41-774C010BF4091748,Amphibia,class,Arctos,3
+Anthracopus,11949805,1151519767,29C0D7B8-9374-6A41-774C010BF4091748,Anthracopus,genus,Arctos,4
+Anthracopus,11949805,1226164021,29C0D7B8-9374-6A41-774C010BF4091748,Anthracopus,scientific_name,Arctos,
+Anthracopus,11949805,1226164022,29C0D7B8-9374-6A41-774C010BF4091748,"<i>Anthracopus</i> Lorenz, 1879",display_name,Arctos,
+Augerinoichnus,11949814,1151520086,2F61CCEB-A215-A390-0B7942C2A18F9B9B,ICZN,nomenclatural_code,Arctos,
+Augerinoichnus,11949814,1151520087,2F61CCEB-A215-A390-0B7942C2A18F9B9B,"Minter, Lucas, Lerner & Braddy, 2008",author_text,Arctos,
+Augerinoichnus,11949814,1151520088,2F61CCEB-A215-A390-0B7942C2A18F9B9B,invalid,taxon_status,Arctos,
+Augerinoichnus,11949814,1151520089,2F61CCEB-A215-A390-0B7942C2A18F9B9B,https://www.gbif.org/species/9415591,source_authority,Arctos,
+Augerinoichnus,11949814,1151520090,2F61CCEB-A215-A390-0B7942C2A18F9B9B,Animalia,kingdom,Arctos,1
+Augerinoichnus,11949814,1151520091,2F61CCEB-A215-A390-0B7942C2A18F9B9B,Augerinoichnus,genus,Arctos,2
+Augerinoichnus,11949814,1226172733,2F61CCEB-A215-A390-0B7942C2A18F9B9B,Augerinoichnus,scientific_name,Arctos,
+Augerinoichnus,11949814,1226172734,2F61CCEB-A215-A390-0B7942C2A18F9B9B,"<i>Augerinoichnus</i> Minter, Lucas, Lerner & Braddy, 2008",display_name,Arctos,
+Bestiopeda,11950371,1151577987,F2306D63-E234-D290-EE58B6127B4EAAAA,"Vialov, 1965",author_text,Arctos,
+Bestiopeda,11950371,1151577988,F2306D63-E234-D290-EE58B6127B4EAAAA,ICZN,nomenclatural_code,Arctos,
+Bestiopeda,11950371,1151577989,F2306D63-E234-D290-EE58B6127B4EAAAA,https://www.gbif.org/species/4833887,source_authority,Arctos,
+Bestiopeda,11950371,1151577990,F2306D63-E234-D290-EE58B6127B4EAAAA,invalid,taxon_status,Arctos,
+Bestiopeda,11950371,1151577991,F2306D63-E234-D290-EE58B6127B4EAAAA,Animalia,kingdom,Arctos,1
+Bestiopeda,11950371,1151577992,F2306D63-E234-D290-EE58B6127B4EAAAA,Chordata,phylum,Arctos,2
+Bestiopeda,11950371,1151577993,F2306D63-E234-D290-EE58B6127B4EAAAA,Mammalia,class,Arctos,3
+Bestiopeda,11950371,1151577994,F2306D63-E234-D290-EE58B6127B4EAAAA,Carnivora,order,Arctos,4
+Bestiopeda,11950371,1151577995,F2306D63-E234-D290-EE58B6127B4EAAAA,Bestiopeda,genus,Arctos,5
+Bestiopeda,11950371,1226315054,F2306D63-E234-D290-EE58B6127B4EAAAA,Bestiopeda,scientific_name,Arctos,
+Bestiopeda,11950371,1226315055,F2306D63-E234-D290-EE58B6127B4EAAAA,"<i>Bestiopeda</i> Vialov, 1965",display_name,Arctos,
+Dicranophyllum,11952858,1151876900,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,"Grand'Eury, 1877",author_text,Arctos,
+Dicranophyllum,11952858,1151876901,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,ICBN,nomenclatural_code,Arctos,
+Dicranophyllum,11952858,1151876902,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,https://www.gbif.org/species/4897689,source_authority,Arctos,
+Dicranophyllum,11952858,1151876903,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,valid,taxon_status,Arctos,
+Dicranophyllum,11952858,1151876904,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,Plantae,kingdom,Arctos,1
+Dicranophyllum,11952858,1151876905,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,Tracheophyta,phylum,Arctos,2
+Dicranophyllum,11952858,1151876906,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,Dicranophyllaceae,family,Arctos,3
+Dicranophyllum,11952858,1151876907,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,Dicranophyllum,genus,Arctos,4
+Dicranophyllum,11952858,1226206702,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,Dicranophyllum,scientific_name,Arctos,
+Dicranophyllum,11952858,1226206703,8CCE89C5-FC6D-8DE7-7491A8ADD67C465F,"<i>Dicranophyllum</i> Grand'Eury, 1877",display_name,Arctos,
+Gambapes,11952880,1151877803,920BEE48-C949-A174-7FCCE1835028AA48,"Sarjeant & Langston, 1994",author_text,Arctos,
+Gambapes,11952880,1151877804,920BEE48-C949-A174-7FCCE1835028AA48,ICZN,nomenclatural_code,Arctos,
+Gambapes,11952880,1151877805,920BEE48-C949-A174-7FCCE1835028AA48,https://www.gbif.org/species/4579422,source_authority,Arctos,
+Gambapes,11952880,1151877806,920BEE48-C949-A174-7FCCE1835028AA48,invalid,taxon_status,Arctos,
+Gambapes,11952880,1151877807,920BEE48-C949-A174-7FCCE1835028AA48,Animalia,kingdom,Arctos,1
+Gambapes,11952880,1151877808,920BEE48-C949-A174-7FCCE1835028AA48,Gambapes,genus,Arctos,2
+Gambapes,11952880,1226208066,920BEE48-C949-A174-7FCCE1835028AA48,Gambapes,scientific_name,Arctos,
+Gambapes,11952880,1226208067,920BEE48-C949-A174-7FCCE1835028AA48,"<i>Gambapes</i> Sarjeant & Langston, 1994",display_name,Arctos,
+Limnopus vagus,11953837,1151977226,F84CBC60-A941-F874-23F8F663E6307D05,"Marsh, 1894",author_text,Arctos,
+Limnopus vagus,11953837,1151977227,F84CBC60-A941-F874-23F8F663E6307D05,ICZN,nomenclatural_code,Arctos,
+Limnopus vagus,11953837,1151977228,F84CBC60-A941-F874-23F8F663E6307D05,https://www.gbif.org/species/8840552,source_authority,Arctos,
+Limnopus vagus,11953837,1151977229,F84CBC60-A941-F874-23F8F663E6307D05,valid,taxon_status,Arctos,
+Limnopus vagus,11953837,1151977230,F84CBC60-A941-F874-23F8F663E6307D05,Animalia,kingdom,Arctos,1
+Limnopus vagus,11953837,1151977231,F84CBC60-A941-F874-23F8F663E6307D05,Chordata,phylum,Arctos,2
+Limnopus vagus,11953837,1151977232,F84CBC60-A941-F874-23F8F663E6307D05,Amphibia,class,Arctos,3
+Limnopus vagus,11953837,1151977233,F84CBC60-A941-F874-23F8F663E6307D05,Limnopus,genus,Arctos,4
+Limnopus vagus,11953837,1151977234,F84CBC60-A941-F874-23F8F663E6307D05,Limnopus vagus,species,Arctos,5
+Limnopus vagus,11953837,1226399059,F84CBC60-A941-F874-23F8F663E6307D05,Limnopus vagus,scientific_name,Arctos,
+Limnopus vagus,11953837,1226399060,F84CBC60-A941-F874-23F8F663E6307D05,"<i>Limnopus vagus</i> Marsh, 1894",display_name,Arctos,
+Paleophycus,11954304,1152033602,C600C132-FA7D-BC71-8CB011EFE8BC4C58,ICBN,nomenclatural_code,Arctos,
+Paleophycus,11954304,1152033603,C600C132-FA7D-BC71-8CB011EFE8BC4C58,https://www.gbif.org/species/9013286,source_authority,Arctos,
+Paleophycus,11954304,1152033604,C600C132-FA7D-BC71-8CB011EFE8BC4C58,Plantae,kingdom,Arctos,1
+Paleophycus,11954304,1152033605,C600C132-FA7D-BC71-8CB011EFE8BC4C58,Paleophycus,genus,Arctos,2
+Paleophycus,11954304,1226402519,C600C132-FA7D-BC71-8CB011EFE8BC4C58,Paleophycus,scientific_name,Arctos,
+Notolacerta,11954534,1152061698,6131AAF9-C2FA-16F1-16816D089C719977,"Matthew, 1903",author_text,Arctos,
+Notolacerta,11954534,1152061699,6131AAF9-C2FA-16F1-16816D089C719977,ICZN,nomenclatural_code,Arctos,
+Notolacerta,11954534,1152061700,6131AAF9-C2FA-16F1-16816D089C719977,invalid,taxon_status,Arctos,
+Notolacerta,11954534,1152061701,6131AAF9-C2FA-16F1-16816D089C719977,http://www.irmng.org/aphia.php?p=taxdetails&id=1152684,source_authority,Arctos,
+Notolacerta,11954534,1152061702,6131AAF9-C2FA-16F1-16816D089C719977,Animalia,kingdom,Arctos,1
+Notolacerta,11954534,1152061703,6131AAF9-C2FA-16F1-16816D089C719977,Chordata,phylum,Arctos,2
+Notolacerta,11954534,1152061704,6131AAF9-C2FA-16F1-16816D089C719977,Amphibia,class,Arctos,3
+Notolacerta,11954534,1152061705,6131AAF9-C2FA-16F1-16816D089C719977,Notolacerta,genus,Arctos,4
+Notolacerta,11954534,1226187588,6131AAF9-C2FA-16F1-16816D089C719977,Notolacerta,scientific_name,Arctos,
+Notolacerta,11954534,1226187589,6131AAF9-C2FA-16F1-16816D089C719977,"<i>Notolacerta</i> Matthew, 1903",display_name,Arctos,
+Robledoichnus,11954547,1152062307,647F5AF8-CD54-A960-E03A4C90BB0F9F76,"Kozur & Lemone, 1995",author_text,Arctos,
+Robledoichnus,11954547,1152062308,647F5AF8-CD54-A960-E03A4C90BB0F9F76,ICZN,nomenclatural_code,Arctos,
+Robledoichnus,11954547,1152062309,647F5AF8-CD54-A960-E03A4C90BB0F9F76,invalid,taxon_status,Arctos,
+Robledoichnus,11954547,1152062310,647F5AF8-CD54-A960-E03A4C90BB0F9F76,https://www.gbif.org/species/4579862,source_authority,Arctos,
+Robledoichnus,11954547,1152062311,647F5AF8-CD54-A960-E03A4C90BB0F9F76,Animalia,kingdom,Arctos,1
+Robledoichnus,11954547,1152062312,647F5AF8-CD54-A960-E03A4C90BB0F9F76,Robledoichnus,genus,Arctos,2
+Robledoichnus,11954547,1226188470,647F5AF8-CD54-A960-E03A4C90BB0F9F76,Robledoichnus,scientific_name,Arctos,
+Robledoichnus,11954547,1226188471,647F5AF8-CD54-A960-E03A4C90BB0F9F76,"<i>Robledoichnus</i> Kozur & Lemone, 1995",display_name,Arctos,
+Scoyenia gracilis,11954822,1152098061,2B529B61-E18F-78A3-BD22CE9A7516F2E3,White,author_text,Arctos,
+Scoyenia gracilis,11954822,1152098062,2B529B61-E18F-78A3-BD22CE9A7516F2E3,ICZN,nomenclatural_code,Arctos,
+Scoyenia gracilis,11954822,1152098063,2B529B61-E18F-78A3-BD22CE9A7516F2E3,https://www.gbif.org/species/9101504,source_authority,Arctos,
+Scoyenia gracilis,11954822,1152098064,2B529B61-E18F-78A3-BD22CE9A7516F2E3,valid,taxon_status,Arctos,
+Scoyenia gracilis,11954822,1152098065,2B529B61-E18F-78A3-BD22CE9A7516F2E3,Animalia,kingdom,Arctos,1
+Scoyenia gracilis,11954822,1152098066,2B529B61-E18F-78A3-BD22CE9A7516F2E3,Annelida,phylum,Arctos,2
+Scoyenia gracilis,11954822,1152098067,2B529B61-E18F-78A3-BD22CE9A7516F2E3,Scoyenia,genus,Arctos,3
+Scoyenia gracilis,11954822,1152098068,2B529B61-E18F-78A3-BD22CE9A7516F2E3,Scoyenia gracilis,species,Arctos,4
+Scoyenia gracilis,11954822,1226171895,2B529B61-E18F-78A3-BD22CE9A7516F2E3,Scoyenia gracilis,scientific_name,Arctos,
+Scoyenia gracilis,11954822,1226171896,2B529B61-E18F-78A3-BD22CE9A7516F2E3,<i>Scoyenia gracilis</i> White,display_name,Arctos,
+Selenichnites,11954824,1152098093,2B8A0853-E391-176E-9C3C5A510B768CEE,"Romano & Whyte, 1990",author_text,Arctos,
+Selenichnites,11954824,1152098094,2B8A0853-E391-176E-9C3C5A510B768CEE,ICZN,nomenclatural_code,Arctos,
+Selenichnites,11954824,1152098095,2B8A0853-E391-176E-9C3C5A510B768CEE,invalid,taxon_status,Arctos,
+Selenichnites,11954824,1152098096,2B8A0853-E391-176E-9C3C5A510B768CEE,https://www.gbif.org/species/3255161,source_authority,Arctos,
+Selenichnites,11954824,1152098097,2B8A0853-E391-176E-9C3C5A510B768CEE,Animalia,kingdom,Arctos,1
+Selenichnites,11954824,1152098098,2B8A0853-E391-176E-9C3C5A510B768CEE,Arthropoda,phylum,Arctos,2
+Selenichnites,11954824,1152098099,2B8A0853-E391-176E-9C3C5A510B768CEE,Merostomata,class,Arctos,3
+Selenichnites,11954824,1152098100,2B8A0853-E391-176E-9C3C5A510B768CEE,Selenichnites,genus,Arctos,4
+Selenichnites,11954824,1226171911,2B8A0853-E391-176E-9C3C5A510B768CEE,Selenichnites,scientific_name,Arctos,
+Selenichnites,11954824,1226171912,2B8A0853-E391-176E-9C3C5A510B768CEE,"<i>Selenichnites</i> Romano & Whyte, 1990",display_name,Arctos,
+Supaia,11954838,1152098611,2FBCA0EE-EF7B-52C6-198233E162234B72,"D.White, 1929",author_text,Arctos,
+Supaia,11954838,1152098612,2FBCA0EE-EF7B-52C6-198233E162234B72,ICZN,nomenclatural_code,Arctos,
+Supaia,11954838,1152098613,2FBCA0EE-EF7B-52C6-198233E162234B72,valid,taxon_status,Arctos,
+Supaia,11954838,1152098614,2FBCA0EE-EF7B-52C6-198233E162234B72,https://www.gbif.org/species/4894814,source_authority,Arctos,
+Supaia,11954838,1152098615,2FBCA0EE-EF7B-52C6-198233E162234B72,Plantae,kingdom,Arctos,1
+Supaia,11954838,1152098616,2FBCA0EE-EF7B-52C6-198233E162234B72,Tracheophyta,phylum,Arctos,2
+Supaia,11954838,1152098617,2FBCA0EE-EF7B-52C6-198233E162234B72,Supaia,genus,Arctos,3
+Supaia,11954838,1226172917,2FBCA0EE-EF7B-52C6-198233E162234B72,Supaia,scientific_name,Arctos,
+Supaia,11954838,1226172918,2FBCA0EE-EF7B-52C6-198233E162234B72,"<i>Supaia</i> D.White, 1929",display_name,Arctos,
+Walpia hermitensis,11954864,1152099277,36EC459C-A21E-AF2F-3A0E04E9AD40615C,White,author_text,Arctos,
+Walpia hermitensis,11954864,1152099278,36EC459C-A21E-AF2F-3A0E04E9AD40615C,ICZN,nomenclatural_code,Arctos,
+Walpia hermitensis,11954864,1152099279,36EC459C-A21E-AF2F-3A0E04E9AD40615C,valid,taxon_status,Arctos,
+Walpia hermitensis,11954864,1152099280,36EC459C-A21E-AF2F-3A0E04E9AD40615C,https://www.gbif.org/species/8952581,source_authority,Arctos,
+Walpia hermitensis,11954864,1152099281,36EC459C-A21E-AF2F-3A0E04E9AD40615C,Animalia,kingdom,Arctos,1
+Walpia hermitensis,11954864,1152099282,36EC459C-A21E-AF2F-3A0E04E9AD40615C,Walpia,genus,Arctos,2
+Walpia hermitensis,11954864,1152099283,36EC459C-A21E-AF2F-3A0E04E9AD40615C,Walpia hermitensis,species,Arctos,3
+Walpia hermitensis,11954864,1226174904,36EC459C-A21E-AF2F-3A0E04E9AD40615C,Walpia hermitensis,scientific_name,Arctos,
+Walpia hermitensis,11954864,1226174905,36EC459C-A21E-AF2F-3A0E04E9AD40615C,<i>Walpia hermitensis</i> White,display_name,Arctos,
+Trachycardium longstreeti,11956186,1152320853,0817C27E-FC0D-2E66-3B516FC31723C4F1,Weller ?,author_text,Arctos,
+Trachycardium longstreeti,11956186,1152320854,0817C27E-FC0D-2E66-3B516FC31723C4F1,ICZN,nomenclatural_code,Arctos,
+Trachycardium longstreeti,11956186,1152320855,0817C27E-FC0D-2E66-3B516FC31723C4F1,Updated taxonomy through WoRMS: Cardium (Trachycardium) (unaccepted) = Trachycardium (accepted),remark,Arctos,
+Trachycardium longstreeti,11956186,1152320856,0817C27E-FC0D-2E66-3B516FC31723C4F1,"Stetson 1949, dperriguey, 2019-12-03",source_authority,Arctos,
+Trachycardium longstreeti,11956186,1152320857,0817C27E-FC0D-2E66-3B516FC31723C4F1,Animalia,kingdom,Arctos,1
+Trachycardium longstreeti,11956186,1152320858,0817C27E-FC0D-2E66-3B516FC31723C4F1,Mollusca,phylum,Arctos,2
+Trachycardium longstreeti,11956186,1152320859,0817C27E-FC0D-2E66-3B516FC31723C4F1,Bivalvia,class,Arctos,3
+Trachycardium longstreeti,11956186,1152320860,0817C27E-FC0D-2E66-3B516FC31723C4F1,Heterodonta,subclass,Arctos,4
+Trachycardium longstreeti,11956186,1152320861,0817C27E-FC0D-2E66-3B516FC31723C4F1,Euheterodonta,infraclass,Arctos,5
+Trachycardium longstreeti,11956186,1152320862,0817C27E-FC0D-2E66-3B516FC31723C4F1,Imparidentia,superorder,Arctos,6
+Trachycardium longstreeti,11956186,1152320863,0817C27E-FC0D-2E66-3B516FC31723C4F1,Cardiida,order,Arctos,7
+Trachycardium longstreeti,11956186,1152320864,0817C27E-FC0D-2E66-3B516FC31723C4F1,Cardioidea,superfamily,Arctos,8
+Trachycardium longstreeti,11956186,1152320865,0817C27E-FC0D-2E66-3B516FC31723C4F1,Cardiidae,family,Arctos,9
+Trachycardium longstreeti,11956186,1152320866,0817C27E-FC0D-2E66-3B516FC31723C4F1,Trachycardiinae,subfamily,Arctos,10
+Trachycardium longstreeti,11956186,1152320867,0817C27E-FC0D-2E66-3B516FC31723C4F1,Trachycardium,genus,Arctos,11
+Trachycardium longstreeti,11956186,1152320868,0817C27E-FC0D-2E66-3B516FC31723C4F1,Trachycardium longstreeti,species,Arctos,12
+Trachycardium longstreeti,11956186,1226155288,0817C27E-FC0D-2E66-3B516FC31723C4F1,Trachycardium longstreeti,scientific_name,Arctos,
+Trachycardium longstreeti,11956186,1226155289,0817C27E-FC0D-2E66-3B516FC31723C4F1,<i>Trachycardium longstreeti</i> Weller ?,display_name,Arctos,
+Macroneuropteris scheuchzeri,11960160,1152861515,3DE6B051-A95C-17E3-E71DCA79D506ACDA,ICBN,nomenclatural_code,Arctos,
+Macroneuropteris scheuchzeri,11960160,1152861516,3DE6B051-A95C-17E3-E71DCA79D506ACDA,extinct,taxon_status,Arctos,
+Macroneuropteris scheuchzeri,11960160,1152861517,3DE6B051-A95C-17E3-E71DCA79D506ACDA,https://en.wikipedia.org/wiki/Macroneuropteris,source_authority,Arctos,
+Macroneuropteris scheuchzeri,11960160,1152861518,3DE6B051-A95C-17E3-E71DCA79D506ACDA,Plantae,kingdom,Arctos,1
+Macroneuropteris scheuchzeri,11960160,1152861519,3DE6B051-A95C-17E3-E71DCA79D506ACDA,Gymnospermophyta,phylum,Arctos,2
+Macroneuropteris scheuchzeri,11960160,1152861520,3DE6B051-A95C-17E3-E71DCA79D506ACDA,Macroneuropteris,genus,Arctos,3
+Macroneuropteris scheuchzeri,11960160,1152861521,3DE6B051-A95C-17E3-E71DCA79D506ACDA,Macroneuropteris scheuchzeri,species,Arctos,4
+Macroneuropteris scheuchzeri,11960160,1226176809,3DE6B051-A95C-17E3-E71DCA79D506ACDA,Macroneuropteris scheuchzeri,scientific_name,Arctos,
+Proboscipeda,11992843,1212093475,F03520AA-A201-4510-8228DCD40632A8C9,"Panin and Avran, 1962",author_text,Arctos,
+Proboscipeda,11992843,1212093476,F03520AA-A201-4510-8228DCD40632A8C9,http://ichnology.ku.edu/vertebrate_traces/mammal_tracks/proboscipeda.html,source_authority,Arctos,
+Proboscipeda,11992843,1212093477,F03520AA-A201-4510-8228DCD40632A8C9,ICZN,nomenclatural_code,Arctos,
+Proboscipeda,11992843,1212093478,F03520AA-A201-4510-8228DCD40632A8C9,Repichnia,remark,Arctos,
+Proboscipeda,11992843,1212093479,F03520AA-A201-4510-8228DCD40632A8C9,Animalia,kingdom,Arctos,1
+Proboscipeda,11992843,1212093480,F03520AA-A201-4510-8228DCD40632A8C9,Proboscipeda,genus,Arctos,2
+Proboscipeda,11992843,1226339616,F03520AA-A201-4510-8228DCD40632A8C9,Proboscipeda,scientific_name,Arctos,
+Proboscipeda,11992843,1226339617,F03520AA-A201-4510-8228DCD40632A8C9,"<i>Proboscipeda</i> Panin and Avran, 1962",display_name,Arctos,
+Kouphichnium aspodon,11994619,1219702471,28E7A69E-7D9E-4869-BC07A34068F1F8A9,King et al. 2019,author_text,Arctos,
+Kouphichnium aspodon,11994619,1219702472,28E7A69E-7D9E-4869-BC07A34068F1F8A9,ICZN,nomenclatural_code,Arctos,
+Kouphichnium aspodon,11994619,1219702473,28E7A69E-7D9E-4869-BC07A34068F1F8A9,"GBIF, 2019",source_authority,Arctos,
+Kouphichnium aspodon,11994619,1219702474,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Kouphichnium aspodon,species,Arctos,1
+Kouphichnium aspodon,11994619,1219702475,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Animalia,kingdom,Arctos,2
+Kouphichnium aspodon,11994619,1219702476,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Chordata,phylum,Arctos,3
+Kouphichnium aspodon,11994619,1219702477,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Reptilia,class,Arctos,4
+Kouphichnium aspodon,11994619,1219702478,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Kouphichnium,genus,Arctos,5
+Kouphichnium aspodon,11994619,1226163940,28E7A69E-7D9E-4869-BC07A34068F1F8A9,Kouphichnium aspodon,scientific_name,Arctos,
+Kouphichnium aspodon,11994619,1226163941,28E7A69E-7D9E-4869-BC07A34068F1F8A9,<i>Kouphichnium aspodon</i> King et al. 2019,display_name,Arctos,

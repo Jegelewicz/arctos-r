@@ -19,7 +19,7 @@ vlookup <- function(x,y,z){
   x[match(y,z)]
 }
 
-classification <- read_excel("~/GitHub/arctos-r/input/temp_cont_ichnus.xlsx") # read in classification file
+classification <- read_excel("~/GitHub/arctos-r/input/temp_arctos_tracefossil.xlsx") # read in classification file
 
 classification$unique_id <- paste(classification$SCIENTIFIC_NAME,classification$CLASSIFICATION_ID, sep = " ") # create unique identifier for name and classification ID combination
 classification$noclass_term_type_1 <- "source_authority" # set up term type for source_authority
@@ -105,4 +105,4 @@ if (nrow(justclass) + nrow(noclass) == nrow(classification)){
     print("data was lost in non-classification terms")
   }
 }
- 
+

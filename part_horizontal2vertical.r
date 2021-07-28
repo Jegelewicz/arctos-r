@@ -2,6 +2,8 @@
 
 # load libraries
 library(readxl)
+library(plyr)
+library(dbplyr)
 
 #define functions
 # define function VLOOKUP (x = return value dataframe and column,
@@ -10,6 +12,9 @@ library(readxl)
 vlookup <- function(x,y,z){
   x[match(y,z)]
 }
+
+# define function: is not in
+'%!in%' <- function(x,y)!('%in%'(x,y))
 
 df <- read_excel("~/GitHub/arctos-r/input/parts.xlsx") # read in horizontal part file
 
@@ -63,7 +68,7 @@ for(x in 1:ncol(df)) { # for every column in the file
   }
 }
 
-df <- df[ , -which(names(df) %in% c("z","u"))]
+df <- df[ , which(names(df) %!in% c(notnamelist))]
 
 parts <- 0 # set count to zero
 for(i in 1:ncol(df)) { # for every column in the file
@@ -72,14 +77,29 @@ for(i in 1:ncol(df)) { # for every column in the file
     parts <- parts + 1 # add one to part count
   }
 }
+
+# dfnamelist <- c()
+final <- c()
+
 for(i in 1:parts){ 
 colnamelist <- c("guid_prefix","cat_num")
+name2 <- paste("part_name_",i,sep = "")
   for(j in 1:ncol(df)) { # for every column in the file
     name <- colnames(df)[j] # review each column name
     if(grepl(i, name, perl = TRUE) == TRUE) { # if column name contains "part_name" then
       colnamelist <- c(colnamelist,name)
     }
     pb <- subset(df, select=c(colnamelist))
+    pb <- pb[which(!is.na(pb[[name2]])),] # use this but need variable for part name number...
   }
 assign(paste('pb',i,sep=''),pb) # put result in a separate dataframe
+dfname <- paste('pb',i,sep="")
+# dfnamelist <- c(dfnamelist,dfname)
 }
+
+pb <- rbind(unlist(dfnamelist))
+
+pb <- bind_rows(dfnamelist, .id = "column_label")
+pb <- df <- do.call("rbind", dfnamelist)
+
+extract.year <- function(my.year) lapply(x, function(y) y[[my.year]])
