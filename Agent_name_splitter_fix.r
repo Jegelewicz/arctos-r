@@ -20,7 +20,7 @@ vlookup <- function(x,y,z){
   x[match(y,z)]
 }
 
-df <- read.csv("C:/Users/Teresa/Dropbox/Arctos/APSU/Memphis_splitAgentNames.csv", na.strings = c("", "NA")) # read in classification file
+df <- read.csv("C:/Users/Teresa/Dropbox/Arctos/ASUMZ/SplitAgentNames(5).csv", na.strings = c("", "NA")) # read in classification file
 
 # transform column headers
 colnames(df) <- tolower(colnames(df)) # lower case column names
@@ -136,10 +136,10 @@ for(i in 1:length(df$preferred_name)){
     temp <- c()
   }
   if(i %% 10 == 0){
-    print(paste('Completed iteration:', i, 'out of', length(df$canonicalName), 'iterations (', round(i/length(df$canonicalName),2)*100,'% DONE)'))
+    print(paste('Completed iteration:', i, 'out of', length(df$preferred_name), 'iterations (', round(i/length(df$preferred_name),2)*100,'% DONE)'))
   }
 }
-print('FINISHED!')
+
 check_mat <- as.data.frame(cbind(compared_names, similar_names)) # create matched names data frame
 df$similar_name <- vlookup(check_mat$similar_names,df$preferred_name,check_mat$compared_names) # place similar compared names in working sheet
 df$similar_name <- ifelse(is.na(df$similar_name),vlookup(check_mat$compared_names,df$preferred_name,check_mat$similar_names),df$similar_name) # place similar similar names in working sheet
